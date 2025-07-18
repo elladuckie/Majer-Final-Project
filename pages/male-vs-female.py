@@ -13,7 +13,7 @@ st.write("The page shows the comparison between men and women, and what the effe
 #start of code, getting url so we have the data
 @st.cache_data
 def male_vs_female():
-    df = pd.read_csv("data/Time-Wasters on Social Media.csv")
+    df = pd.read_csv("data/Time-Wasters-on-Social-Media.csv")
 
 #orders the chart in male first, then female
     df["Gender"] = pd.Categorical(
