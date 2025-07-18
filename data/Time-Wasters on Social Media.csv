@@ -2,11 +2,11 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 1,56,Male,Pakistan,82812,TRUE,TRUE,Engineer,Rural,Instagram,80,17,4229,Pranks,24,7867,5,26,22,87,Night,3,7,Procrastination,Smartphone,Android,9:00 PM,5,5,Commuting,Mobile Data
 2,46,Female,Mexico,27999,FALSE,TRUE,Artist,Urban,Instagram,228,14,2131,Pranks,19,5944,6,25,31,46,Afternoon,5,5,Habit,Computer,Android,5:00 PM,7,3,At school,Wi-Fi
 3,32,Female,United States,42436,FALSE,TRUE,Engineer,Rural,Facebook,30,6,4367,Vlogs,19,8674,3,9,7,88,Evening,6,4,Entertainment,Tablet,Android,2:00 PM,8,2,At home,Mobile Data
-4,60,Male,Barzil,62963,TRUE,FALSE,Waiting staff,Rural,YouTube,101,19,1507,Vlogs,4,2477,2,6,41,93,Night,3,7,Habit,Smartphone,Android,9:00 PM,5,5,Commuting,Mobile Data
+4,60,Male,Brazil,62963,TRUE,FALSE,Waiting staff,Rural,YouTube,101,19,1507,Vlogs,4,2477,2,6,41,93,Night,3,7,Habit,Smartphone,Android,9:00 PM,5,5,Commuting,Mobile Data
 5,25,Male,Pakistan,22096,FALSE,TRUE,Manager,Urban,TikTok,136,6,2159,Gaming,19,3093,7,13,21,4,Morning,8,2,Boredom,Smartphone,iOS,8:00 AM,10,0,At home,Mobile Data
 6,38,Male,Vietnam,45279,FALSE,FALSE,driver,Urban,Instagram,89,18,2917,Jokes/Memes,9,8534,5,27,16,38,Night,3,7,Entertainment,Computer,Android,9:00 PM,5,5,At home,Wi-Fi
 7,56,Male,India,46201,FALSE,FALSE,Students,Rural,TikTok,247,5,3230,Vlogs,16,7207,9,22,20,63,Morning,8,2,Habit,Smartphone,Android,8:00 AM,10,0,At school,Wi-Fi
-8,36,Male,Barzil,39715,FALSE,FALSE,Engineer,Rural,Instagram,191,6,9859,Entertainment,27,9654,3,28,43,29,Night,3,7,Entertainment,Tablet,Android,9:00 PM,5,5,At home,Mobile Data
+8,36,Male,Brazil,39715,FALSE,FALSE,Engineer,Rural,Instagram,191,6,9859,Entertainment,27,9654,3,28,43,29,Night,3,7,Entertainment,Tablet,Android,9:00 PM,5,5,At home,Mobile Data
 9,40,Male,United States,49309,FALSE,FALSE,Waiting staff,Rural,Instagram,34,2,6266,Vlogs,4,9394,8,20,44,19,Night,3,7,Entertainment,Computer,Android,9:00 PM,5,5,At home,Mobile Data
 10,28,Other,United States,35078,FALSE,FALSE,Students,Rural,YouTube,165,8,4137,ASMR,6,9813,6,4,47,91,Evening,6,4,Boredom,Smartphone,iOS,2:00 PM,8,2,At home,Mobile Data
 11,28,Male,Indonesia,76614,TRUE,TRUE,Manager,Rural,Instagram,14,15,2690,Pranks,8,6227,4,2,19,29,Afternoon,5,5,Boredom,Smartphone,Android,5:00 PM,7,3,At home,Mobile Data
@@ -16,11 +16,11 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 15,41,Other,Vietnam,63619,TRUE,TRUE,Cashier,Rural,YouTube,207,18,13,Gaming,16,9381,9,13,5,46,Evening,6,4,Boredom,Tablet,iOS,2:00 PM,8,2,At school,Wi-Fi
 16,20,Female,Philippines,62821,TRUE,TRUE,Students,Rural,YouTube,66,12,5939,Entertainment,5,2340,7,10,11,44,Evening,6,4,Entertainment,Smartphone,MacOS,2:00 PM,8,2,At school,Mobile Data
 17,39,Female,Mexico,33493,FALSE,FALSE,Waiting staff,Rural,Facebook,102,12,8000,ASMR,21,9795,5,18,15,48,Afternoon,5,5,Habit,Smartphone,iOS,5:00 PM,7,3,At home,Wi-Fi
-18,19,Female,Barzil,37069,FALSE,FALSE,Students,Rural,Facebook,28,11,7220,ASMR,22,5289,2,9,29,52,Evening,6,4,Habit,Smartphone,Windows,2:00 PM,8,2,At home,Mobile Data
+18,19,Female,Brazil,37069,FALSE,FALSE,Students,Rural,Facebook,28,11,7220,ASMR,22,5289,2,9,29,52,Evening,6,4,Habit,Smartphone,Windows,2:00 PM,8,2,At home,Mobile Data
 19,41,Other,Japan,27531,FALSE,FALSE,Labor/Worker,Rural,Facebook,202,8,5329,Pranks,10,597,4,1,45,8,Evening,6,4,Entertainment,Smartphone,iOS,2:00 PM,8,2,At work,Mobile Data
 20,61,Male,United States,57051,TRUE,TRUE,Labor/Worker,Urban,Instagram,246,7,3622,Vlogs,23,8836,2,13,4,55,Morning,8,2,Habit,Smartphone,MacOS,8:00 AM,10,0,At work,Mobile Data
 21,47,Male,India,27736,FALSE,FALSE,Waiting staff,Rural,YouTube,286,2,3684,Vlogs,13,7145,3,18,49,66,Afternoon,5,5,Habit,Tablet,iOS,5:00 PM,7,3,Commuting,Mobile Data
-22,55,Male,Barzil,27710,FALSE,FALSE,driver,Rural,Facebook,236,11,7873,Entertainment,29,2902,3,15,36,77,Afternoon,5,5,Boredom,Computer,Android,5:00 PM,7,3,Commuting,Mobile Data
+22,55,Male,Brazil,27710,FALSE,FALSE,driver,Rural,Facebook,236,11,7873,Entertainment,29,2902,3,15,36,77,Afternoon,5,5,Boredom,Computer,Android,5:00 PM,7,3,Commuting,Mobile Data
 23,19,Female,Indonesia,87155,TRUE,FALSE,Students,Rural,Instagram,242,10,5311,Entertainment,26,6645,4,2,48,40,Night,3,7,Boredom,Smartphone,Android,9:00 PM,5,5,At work,Mobile Data
 24,38,Female,India,33975,FALSE,FALSE,Waiting staff,Urban,Facebook,49,3,653,Pranks,14,8955,6,11,23,85,Evening,6,4,Habit,Smartphone,iOS,2:00 PM,8,2,At home,Mobile Data
 25,50,Male,Germany,82424,TRUE,TRUE,Waiting staff,Rural,TikTok,162,10,5800,Jokes/Memes,7,7694,3,29,15,31,Evening,6,4,Boredom,Smartphone,Android,2:00 PM,8,2,At home,Mobile Data
@@ -37,7 +37,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 36,61,Other,Mexico,93997,TRUE,FALSE,Students,Urban,TikTok,220,1,9581,Jokes/Memes,27,8112,2,9,21,37,Night,3,7,Procrastination,Smartphone,Android,9:00 PM,5,5,At home,Wi-Fi
 37,20,Male,United States,37015,FALSE,TRUE,Labor/Worker,Rural,TikTok,127,17,6508,Entertainment,1,8771,8,5,48,47,Night,3,7,Entertainment,Tablet,Android,9:00 PM,5,5,At home,Mobile Data
 38,54,Male,Philippines,70057,TRUE,FALSE,Students,Urban,YouTube,200,2,7820,Jokes/Memes,4,3804,7,5,15,90,Afternoon,5,5,Boredom,Smartphone,iOS,5:00 PM,7,3,At school,Wi-Fi
-39,24,Male,Barzil,52591,TRUE,TRUE,Cashier,Rural,YouTube,51,8,8594,Jokes/Memes,19,4878,6,11,15,71,Night,3,7,Habit,Smartphone,Android,9:00 PM,5,5,At home,Mobile Data
+39,24,Male,Brazil,52591,TRUE,TRUE,Cashier,Rural,YouTube,51,8,8594,Jokes/Memes,19,4878,6,11,15,71,Night,3,7,Habit,Smartphone,Android,9:00 PM,5,5,At home,Mobile Data
 40,38,Male,Germany,29833,FALSE,FALSE,Students,Rural,YouTube,51,7,2654,ASMR,12,2368,5,28,1,22,Afternoon,5,5,Boredom,Tablet,Android,5:00 PM,7,3,Commuting,Mobile Data
 41,26,Male,Pakistan,27896,FALSE,TRUE,Waiting staff,Urban,Instagram,285,15,5612,Comedy,15,8093,4,20,24,39,Evening,6,4,Boredom,Smartphone,Android,2:00 PM,8,2,At work,Mobile Data
 42,56,Male,India,52972,TRUE,FALSE,Students,Urban,TikTok,26,5,6128,ASMR,3,3932,7,25,12,87,Evening,6,4,Habit,Smartphone,Android,2:00 PM,8,2,At school,Mobile Data
@@ -83,7 +83,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 82,33,Male,Pakistan,53365,TRUE,TRUE,Labor/Worker,Urban,Facebook,292,14,373,Jokes/Memes,3,504,4,4,18,24,Afternoon,5,5,Entertainment,Smartphone,Android,5:00 PM,7,3,At school,Mobile Data
 83,62,Male,Philippines,39446,FALSE,FALSE,Students,Rural,TikTok,220,12,6237,Pranks,4,7699,1,15,20,40,Evening,6,4,Entertainment,Smartphone,MacOS,2:00 PM,8,2,Commuting,Mobile Data
 84,35,Male,India,22336,FALSE,TRUE,Waiting staff,Urban,Facebook,85,19,1345,Entertainment,27,5733,9,11,28,14,Afternoon,5,5,Boredom,Smartphone,Android,5:00 PM,7,3,At work,Mobile Data
-85,64,Male,Barzil,82032,TRUE,FALSE,Labor/Worker,Urban,Instagram,157,7,8516,Jokes/Memes,20,8055,8,1,13,92,Night,3,7,Boredom,Tablet,iOS,9:00 PM,5,5,At home,Wi-Fi
+85,64,Male,Brazil,82032,TRUE,FALSE,Labor/Worker,Urban,Instagram,157,7,8516,Jokes/Memes,20,8055,8,1,13,92,Night,3,7,Boredom,Tablet,iOS,9:00 PM,5,5,At home,Wi-Fi
 86,41,Other,India,95415,TRUE,TRUE,Waiting staff,Rural,TikTok,222,15,2432,Life Hacks,15,3216,4,18,5,75,Night,3,7,Entertainment,Smartphone,iOS,9:00 PM,5,5,At home,Wi-Fi
 87,43,Female,Indonesia,27521,FALSE,FALSE,Engineer,Rural,YouTube,118,16,4671,Trends,15,5688,2,29,30,70,Night,3,7,Habit,Computer,iOS,9:00 PM,5,5,At home,Wi-Fi
 88,42,Other,United States,91707,TRUE,TRUE,Manager,Rural,TikTok,138,8,2785,Life Hacks,27,9600,9,1,1,62,Night,3,7,Entertainment,Computer,MacOS,9:00 PM,5,5,At home,Mobile Data
@@ -106,26 +106,26 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 105,25,Female,India,98258,TRUE,TRUE,driver,Urban,Facebook,264,2,9268,Gaming,16,2243,3,2,45,98,Night,3,7,Habit,Smartphone,Android,9:00 PM,5,5,At home,Mobile Data
 106,52,Male,Philippines,32924,FALSE,FALSE,Labor/Worker,Rural,Facebook,188,12,7196,Comedy,18,5879,4,7,27,21,Evening,6,4,Entertainment,Smartphone,iOS,2:00 PM,8,2,At home,Mobile Data
 107,52,Female,Japan,89286,TRUE,FALSE,Labor/Worker,Urban,YouTube,44,6,6721,Jokes/Memes,7,1701,4,27,49,30,Night,3,7,Habit,Smartphone,Android,9:00 PM,5,5,At home,Mobile Data
-108,50,Male,Barzil,94071,TRUE,TRUE,Waiting staff,Rural,YouTube,91,11,3089,Pranks,15,7229,5,10,17,90,Night,3,7,Entertainment,Smartphone,Windows,9:00 PM,5,5,At work,Wi-Fi
+108,50,Male,Brazil,94071,TRUE,TRUE,Waiting staff,Rural,YouTube,91,11,3089,Pranks,15,7229,5,10,17,90,Night,3,7,Entertainment,Smartphone,Windows,9:00 PM,5,5,At work,Wi-Fi
 109,22,Male,Mexico,77326,TRUE,TRUE,Artist,Rural,YouTube,229,8,1790,Gaming,24,1286,6,15,48,20,Evening,6,4,Entertainment,Computer,Android,2:00 PM,8,2,At home,Wi-Fi
 110,59,Male,Germany,50651,TRUE,TRUE,Labor/Worker,Rural,TikTok,167,12,3037,Jokes/Memes,17,8303,3,25,21,16,Night,3,7,Procrastination,Tablet,Android,9:00 PM,5,5,At work,Mobile Data
 111,56,Female,India,90202,TRUE,FALSE,Waiting staff,Rural,Instagram,13,2,7378,Jokes/Memes,19,9393,4,7,40,67,Night,3,7,Entertainment,Smartphone,iOS,9:00 PM,5,5,At home,Wi-Fi
-112,58,Female,Barzil,68777,TRUE,FALSE,Labor/Worker,Rural,Instagram,176,9,7599,Pranks,23,947,3,28,31,49,Evening,6,4,Habit,Smartphone,Android,2:00 PM,8,2,At home,Wi-Fi
+112,58,Female,Brazil,68777,TRUE,FALSE,Labor/Worker,Rural,Instagram,176,9,7599,Pranks,23,947,3,28,31,49,Evening,6,4,Habit,Smartphone,Android,2:00 PM,8,2,At home,Wi-Fi
 113,45,Female,Vietnam,36994,FALSE,FALSE,Labor/Worker,Rural,TikTok,213,15,4839,Jokes/Memes,13,4121,2,5,3,58,Evening,6,4,Procrastination,Smartphone,Android,2:00 PM,8,2,At work,Mobile Data
 114,24,Male,Indonesia,87263,TRUE,TRUE,Teacher,Rural,Facebook,203,2,5873,Jokes/Memes,9,6553,9,15,17,44,Evening,6,4,Boredom,Computer,Windows,2:00 PM,8,2,At home,Wi-Fi
 115,26,Male,United States,79634,TRUE,FALSE,Students,Rural,TikTok,244,1,3654,Entertainment,24,757,1,20,26,25,Night,3,7,Habit,Smartphone,Android,9:00 PM,5,5,At school,Mobile Data
-116,25,Male,Barzil,30800,FALSE,FALSE,Students,Urban,Facebook,215,10,4300,Life Hacks,24,5651,2,28,23,23,Night,3,7,Boredom,Smartphone,iOS,9:00 PM,5,5,At school,Mobile Data
+116,25,Male,Brazil,30800,FALSE,FALSE,Students,Urban,Facebook,215,10,4300,Life Hacks,24,5651,2,28,23,23,Night,3,7,Boredom,Smartphone,iOS,9:00 PM,5,5,At school,Mobile Data
 117,29,Female,Philippines,57823,TRUE,FALSE,Cashier,Rural,TikTok,159,2,9269,Entertainment,15,7273,8,20,6,59,Evening,6,4,Habit,Smartphone,Android,2:00 PM,8,2,At work,Wi-Fi
 118,51,Male,United States,83878,TRUE,FALSE,driver,Rural,TikTok,168,12,974,Life Hacks,25,3535,7,15,28,1,Evening,6,4,Habit,Smartphone,iOS,2:00 PM,8,2,At work,Wi-Fi
 119,50,Other,India,38708,FALSE,TRUE,Labor/Worker,Rural,TikTok,288,8,7084,Life Hacks,26,2293,1,10,8,97,Evening,6,4,Habit,Smartphone,Android,2:00 PM,8,2,At work,Mobile Data
 120,40,Female,Pakistan,32819,FALSE,FALSE,Engineer,Rural,Instagram,175,5,5495,Gaming,3,1104,5,24,45,15,Night,3,7,Habit,Smartphone,Android,9:00 PM,5,5,At home,Wi-Fi
 121,41,Other,Vietnam,94905,TRUE,TRUE,Labor/Worker,Rural,YouTube,77,1,9492,Life Hacks,24,8853,6,26,8,81,Night,3,7,Habit,Tablet,Android,9:00 PM,5,5,At work,Mobile Data
-122,54,Other,Barzil,83870,TRUE,FALSE,Labor/Worker,Rural,TikTok,97,15,3407,Gaming,1,908,5,29,19,98,Night,3,7,Habit,Tablet,iOS,9:00 PM,5,5,At home,Mobile Data
+122,54,Other,Brazil,83870,TRUE,FALSE,Labor/Worker,Rural,TikTok,97,15,3407,Gaming,1,908,5,29,19,98,Night,3,7,Habit,Tablet,iOS,9:00 PM,5,5,At home,Mobile Data
 123,52,Female,Mexico,29283,FALSE,TRUE,Artist,Urban,Instagram,226,6,5151,Trends,16,6539,4,26,38,81,Evening,6,4,Habit,Smartphone,iOS,2:00 PM,8,2,Commuting,Mobile Data
 124,61,Other,India,50573,TRUE,FALSE,Waiting staff,Rural,YouTube,10,12,9351,Comedy,8,4617,1,14,29,52,Evening,6,4,Boredom,Smartphone,Windows,2:00 PM,8,2,At home,Wi-Fi
 125,57,Male,United States,98707,TRUE,TRUE,driver,Rural,YouTube,144,8,3130,ASMR,29,7069,7,26,23,58,Night,3,7,Boredom,Smartphone,iOS,9:00 PM,5,5,At home,Wi-Fi
 126,39,Female,India,50933,TRUE,FALSE,driver,Rural,TikTok,194,13,105,Gaming,23,2311,9,26,47,41,Evening,6,4,Entertainment,Tablet,Android,2:00 PM,8,2,At school,Mobile Data
-127,44,Female,Barzil,25774,FALSE,TRUE,Cashier,Rural,Facebook,149,19,7434,Pranks,13,789,6,10,32,44,Night,3,7,Habit,Computer,iOS,9:00 PM,5,5,At school,Mobile Data
+127,44,Female,Brazil,25774,FALSE,TRUE,Cashier,Rural,Facebook,149,19,7434,Pranks,13,789,6,10,32,44,Night,3,7,Habit,Computer,iOS,9:00 PM,5,5,At school,Mobile Data
 128,52,Male,Mexico,92055,TRUE,FALSE,Labor/Worker,Rural,Facebook,115,1,7690,Pranks,8,171,3,17,10,4,Night,3,7,Boredom,Smartphone,Android,9:00 PM,5,5,At school,Wi-Fi
 129,18,Other,Philippines,30983,FALSE,TRUE,Waiting staff,Rural,Facebook,142,11,3568,Vlogs,17,7989,4,21,27,77,Afternoon,5,5,Entertainment,Smartphone,Android,5:00 PM,7,3,At school,Wi-Fi
 130,52,Female,Indonesia,38133,FALSE,FALSE,Students,Urban,TikTok,117,1,4349,Jokes/Memes,22,1885,5,14,49,68,Evening,6,4,Habit,Tablet,MacOS,2:00 PM,8,2,At home,Wi-Fi
@@ -133,8 +133,8 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 132,64,Male,Indonesia,20781,FALSE,FALSE,Artist,Rural,Instagram,155,5,6812,Life Hacks,14,1049,5,16,39,46,Night,3,7,Procrastination,Smartphone,Android,9:00 PM,5,5,At home,Mobile Data
 133,31,Female,India,76700,TRUE,TRUE,Waiting staff,Rural,Instagram,83,17,1182,ASMR,27,4129,1,13,29,9,Night,3,7,Entertainment,Tablet,Android,9:00 PM,5,5,Commuting,Mobile Data
 134,20,Male,India,47624,FALSE,FALSE,Students,Rural,Instagram,117,8,4645,Vlogs,21,1161,9,27,45,87,Afternoon,5,5,Entertainment,Smartphone,Android,5:00 PM,7,3,At school,Mobile Data
-135,18,Female,Barzil,26823,FALSE,TRUE,driver,Rural,Instagram,131,10,5874,Entertainment,21,815,7,9,3,33,Afternoon,5,5,Procrastination,Smartphone,Windows,5:00 PM,7,3,At home,Mobile Data
-136,22,Female,Barzil,38489,FALSE,FALSE,Manager,Rural,YouTube,26,2,4395,Life Hacks,7,3766,3,7,47,33,Evening,6,4,Entertainment,Computer,iOS,2:00 PM,8,2,At home,Mobile Data
+135,18,Female,Brazil,26823,FALSE,TRUE,driver,Rural,Instagram,131,10,5874,Entertainment,21,815,7,9,3,33,Afternoon,5,5,Procrastination,Smartphone,Windows,5:00 PM,7,3,At home,Mobile Data
+136,22,Female,Brazil,38489,FALSE,FALSE,Manager,Rural,YouTube,26,2,4395,Life Hacks,7,3766,3,7,47,33,Evening,6,4,Entertainment,Computer,iOS,2:00 PM,8,2,At home,Mobile Data
 137,43,Female,Pakistan,59961,TRUE,TRUE,Cashier,Rural,Instagram,205,9,3535,Trends,27,8945,9,16,37,84,Night,3,7,Boredom,Smartphone,Android,9:00 PM,5,5,At home,Mobile Data
 138,31,Female,Germany,49118,FALSE,FALSE,Labor/Worker,Rural,Facebook,261,3,5845,Entertainment,15,4661,2,10,31,4,Night,3,7,Entertainment,Tablet,Android,9:00 PM,5,5,At work,Mobile Data
 139,56,Male,Pakistan,42263,FALSE,TRUE,Students,Rural,TikTok,128,18,5940,Life Hacks,16,8653,7,24,11,65,Morning,8,2,Boredom,Tablet,Android,8:00 AM,10,0,Commuting,Mobile Data
@@ -183,20 +183,20 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 182,30,Female,India,24135,FALSE,TRUE,driver,Rural,TikTok,241,17,4508,Life Hacks,29,443,3,22,27,18,Evening,6,4,Procrastination,Tablet,Android,2:00 PM,8,2,At school,Mobile Data
 183,58,Male,Philippines,26629,FALSE,FALSE,Labor/Worker,Rural,Instagram,250,9,4831,Jokes/Memes,8,7519,4,28,13,59,Evening,6,4,Habit,Smartphone,iOS,2:00 PM,8,2,At school,Wi-Fi
 184,20,Female,Japan,85031,TRUE,TRUE,Cashier,Rural,YouTube,267,3,118,ASMR,17,754,7,10,14,91,Evening,6,4,Habit,Tablet,MacOS,2:00 PM,8,2,At school,Mobile Data
-185,56,Male,Barzil,53380,TRUE,FALSE,Labor/Worker,Rural,Instagram,258,11,482,Pranks,8,4735,7,2,37,48,Night,3,7,Entertainment,Smartphone,MacOS,9:00 PM,5,5,At home,Wi-Fi
+185,56,Male,Brazil,53380,TRUE,FALSE,Labor/Worker,Rural,Instagram,258,11,482,Pranks,8,4735,7,2,37,48,Night,3,7,Entertainment,Smartphone,MacOS,9:00 PM,5,5,At home,Wi-Fi
 186,23,Male,India,37071,FALSE,TRUE,Labor/Worker,Urban,TikTok,86,12,4288,Jokes/Memes,21,5396,8,2,48,63,Evening,6,4,Entertainment,Smartphone,iOS,2:00 PM,8,2,At work,Mobile Data
 187,25,Male,Philippines,40074,FALSE,FALSE,Artist,Rural,Instagram,189,10,6803,Entertainment,29,3465,2,27,30,12,Afternoon,5,5,Procrastination,Tablet,Android,5:00 PM,7,3,At home,Mobile Data
 188,44,Male,Germany,87843,TRUE,TRUE,Waiting staff,Urban,YouTube,75,17,8299,Life Hacks,27,2711,2,14,39,87,Morning,8,2,Procrastination,Smartphone,Android,8:00 AM,10,0,At work,Mobile Data
 189,26,Female,India,59901,TRUE,TRUE,driver,Rural,Instagram,180,17,4478,Entertainment,1,2407,4,16,47,34,Morning,8,2,Entertainment,Smartphone,Windows,8:00 AM,10,0,Commuting,Wi-Fi
 190,54,Male,Mexico,31205,FALSE,TRUE,Teacher,Rural,YouTube,31,11,6534,Pranks,20,8814,9,7,13,61,Morning,8,2,Habit,Smartphone,Android,8:00 AM,10,0,At home,Mobile Data
 191,50,Male,Indonesia,75661,TRUE,TRUE,Engineer,Rural,YouTube,116,4,244,Entertainment,2,5588,9,21,16,87,Evening,6,4,Boredom,Smartphone,Android,2:00 PM,8,2,At work,Wi-Fi
-192,59,Other,Barzil,25906,FALSE,FALSE,driver,Rural,YouTube,236,7,7013,Life Hacks,4,6104,4,21,44,53,Evening,6,4,Entertainment,Smartphone,iOS,2:00 PM,8,2,At home,Wi-Fi
+192,59,Other,Brazil,25906,FALSE,FALSE,driver,Rural,YouTube,236,7,7013,Life Hacks,4,6104,4,21,44,53,Evening,6,4,Entertainment,Smartphone,iOS,2:00 PM,8,2,At home,Wi-Fi
 193,61,Male,Japan,22591,FALSE,TRUE,Waiting staff,Urban,TikTok,225,14,866,Jokes/Memes,24,5747,9,24,7,25,Evening,6,4,Habit,Smartphone,iOS,2:00 PM,8,2,At home,Wi-Fi
 194,41,Female,United States,82987,TRUE,TRUE,Labor/Worker,Rural,Instagram,78,7,9754,Vlogs,21,1723,3,12,48,62,Afternoon,5,5,Entertainment,Smartphone,MacOS,5:00 PM,7,3,At home,Mobile Data
 195,32,Other,India,83370,TRUE,TRUE,Teacher,Urban,TikTok,93,8,5330,Trends,1,7224,5,28,27,4,Evening,6,4,Habit,Tablet,Android,2:00 PM,8,2,At school,Wi-Fi
 196,49,Male,Vietnam,74400,TRUE,FALSE,Waiting staff,Rural,Instagram,112,1,604,Life Hacks,7,1919,9,23,45,94,Evening,6,4,Habit,Tablet,Android,2:00 PM,8,2,At home,Mobile Data
 197,49,Male,Pakistan,45150,FALSE,TRUE,Waiting staff,Rural,TikTok,48,4,5757,Jokes/Memes,1,918,6,28,35,94,Evening,6,4,Habit,Smartphone,Android,2:00 PM,8,2,At home,Mobile Data
-198,41,Male,Barzil,51852,TRUE,FALSE,Manager,Urban,Facebook,22,12,4019,Gaming,9,4215,3,14,15,13,Night,3,7,Habit,Smartphone,MacOS,9:00 PM,5,5,At work,Wi-Fi
+198,41,Male,Brazil,51852,TRUE,FALSE,Manager,Urban,Facebook,22,12,4019,Gaming,9,4215,3,14,15,13,Night,3,7,Habit,Smartphone,MacOS,9:00 PM,5,5,At work,Wi-Fi
 199,58,Male,United States,62870,TRUE,FALSE,Artist,Rural,YouTube,190,3,5193,Pranks,3,581,9,25,28,42,Morning,8,2,Boredom,Computer,Android,8:00 AM,10,0,At home,Wi-Fi
 200,29,Male,India,72756,TRUE,FALSE,Students,Rural,YouTube,277,13,2016,Entertainment,12,3881,6,4,35,49,Evening,6,4,Boredom,Smartphone,Android,2:00 PM,8,2,Commuting,Mobile Data
 201,56,Other,Vietnam,76481,TRUE,FALSE,Labor/Worker,Rural,TikTok,22,6,9851,Pranks,19,9878,4,26,7,78,Evening,6,4,Entertainment,Tablet,Android,2:00 PM,8,2,At school,Wi-Fi
@@ -233,7 +233,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 232,50,Male,Vietnam,79165,TRUE,FALSE,Cashier,Rural,Facebook,175,5,2649,Life Hacks,21,3338,1,25,32,14,Night,3,7,Entertainment,Tablet,iOS,8:30 PM,5,5,At school,Mobile Data
 233,26,Other,United States,89615,TRUE,TRUE,Students,Urban,Facebook,139,9,7314,Life Hacks,18,5487,8,4,36,44,Night,3,7,Boredom,Smartphone,Android,8:30 PM,5,5,At home,Wi-Fi
 234,23,Male,Germany,56116,TRUE,FALSE,Waiting staff,Urban,Facebook,223,8,1718,ASMR,3,3514,8,4,2,86,Afternoon,5,5,Entertainment,Tablet,iOS,6:05 PM,7,3,Commuting,Mobile Data
-235,33,Female,Barzil,45556,FALSE,TRUE,driver,Urban,Instagram,98,16,5309,Trends,20,759,4,15,40,82,Evening,6,4,Boredom,Smartphone,iOS,3:45 PM,8,2,Commuting,Mobile Data
+235,33,Female,Brazil,45556,FALSE,TRUE,driver,Urban,Instagram,98,16,5309,Trends,20,759,4,15,40,82,Evening,6,4,Boredom,Smartphone,iOS,3:45 PM,8,2,Commuting,Mobile Data
 236,46,Female,Indonesia,79042,TRUE,FALSE,Students,Urban,YouTube,261,14,7408,Life Hacks,15,9915,8,15,14,48,Evening,6,4,Procrastination,Computer,Android,3:45 PM,8,2,At school,Wi-Fi
 237,20,Other,India,38099,FALSE,TRUE,Teacher,Rural,Facebook,81,13,871,Jokes/Memes,5,8621,4,18,20,93,Morning,8,2,Habit,Computer,MacOS,9:15 AM,10,0,At home,Mobile Data
 238,37,Female,Vietnam,65096,TRUE,FALSE,Artist,Rural,Facebook,174,13,3575,Trends,13,6793,8,14,25,43,Night,3,7,Habit,Tablet,Android,8:30 PM,5,5,At work,Mobile Data
@@ -241,9 +241,9 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 240,36,Female,Germany,33230,FALSE,TRUE,Waiting staff,Rural,Instagram,61,16,7987,Jokes/Memes,12,5273,4,1,49,35,Afternoon,5,5,Procrastination,Tablet,iOS,6:05 PM,7,3,Commuting,Wi-Fi
 241,43,Other,Philippines,49009,FALSE,TRUE,Waiting staff,Rural,TikTok,298,11,8463,Life Hacks,23,1718,6,10,8,53,Afternoon,5,5,Entertainment,Smartphone,Windows,6:05 PM,7,3,At work,Mobile Data
 242,20,Other,United States,90969,TRUE,TRUE,Cashier,Rural,YouTube,287,5,9736,Life Hacks,21,9457,2,29,28,34,Evening,6,4,Entertainment,Tablet,Android,3:45 PM,8,2,At school,Mobile Data
-243,36,Male,Barzil,53866,TRUE,FALSE,driver,Rural,TikTok,123,13,8742,Life Hacks,5,5423,2,20,46,3,Night,3,7,Procrastination,Smartphone,Android,8:30 PM,5,5,At school,Mobile Data
+243,36,Male,Brazil,53866,TRUE,FALSE,driver,Rural,TikTok,123,13,8742,Life Hacks,5,5423,2,20,46,3,Night,3,7,Procrastination,Smartphone,Android,8:30 PM,5,5,At school,Mobile Data
 244,37,Female,Germany,96975,TRUE,TRUE,driver,Rural,TikTok,248,11,5770,ASMR,6,1308,2,10,21,68,Night,3,7,Habit,Smartphone,iOS,8:30 PM,5,5,At home,Wi-Fi
-245,49,Male,Barzil,61855,TRUE,FALSE,Waiting staff,Urban,TikTok,142,19,5734,Jokes/Memes,7,1050,9,10,23,5,Evening,6,4,Procrastination,Smartphone,Android,3:45 PM,8,2,At school,Mobile Data
+245,49,Male,Brazil,61855,TRUE,FALSE,Waiting staff,Urban,TikTok,142,19,5734,Jokes/Memes,7,1050,9,10,23,5,Evening,6,4,Procrastination,Smartphone,Android,3:45 PM,8,2,At school,Mobile Data
 246,24,Male,United States,26416,FALSE,FALSE,driver,Rural,Instagram,283,3,9905,Life Hacks,26,5479,3,27,32,10,Night,3,7,Habit,Smartphone,Android,8:30 PM,5,5,At home,Mobile Data
 247,58,Male,Vietnam,92516,TRUE,FALSE,Students,Rural,YouTube,175,15,3241,Jokes/Memes,10,2249,4,24,8,52,Morning,8,2,Entertainment,Computer,Windows,9:15 AM,10,0,At home,Mobile Data
 248,50,Female,Japan,75915,TRUE,FALSE,Students,Rural,TikTok,252,7,9555,Life Hacks,16,2809,8,2,31,29,Evening,6,4,Habit,Smartphone,Windows,3:45 PM,8,2,At home,Mobile Data
@@ -275,12 +275,12 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 274,36,Male,Pakistan,29528,FALSE,TRUE,Waiting staff,Rural,Facebook,47,8,3414,Comedy,2,9377,3,5,14,25,Evening,6,4,Entertainment,Computer,Android,3:45 PM,8,2,At work,Wi-Fi
 275,33,Female,Japan,70100,TRUE,FALSE,Labor/Worker,Rural,TikTok,235,6,8028,Jokes/Memes,12,4370,2,13,46,4,Evening,6,4,Entertainment,Tablet,iOS,3:45 PM,8,2,Commuting,Mobile Data
 276,20,Female,Germany,28179,FALSE,TRUE,driver,Rural,TikTok,62,6,7940,Pranks,1,4301,5,27,38,51,Night,3,7,Entertainment,Smartphone,Android,8:30 PM,5,5,At school,Mobile Data
-277,37,Male,Barzil,68781,TRUE,TRUE,Engineer,Rural,Instagram,233,9,9262,Trends,24,7207,6,20,35,11,Night,3,7,Entertainment,Smartphone,iOS,8:30 PM,5,5,At home,Mobile Data
+277,37,Male,Brazil,68781,TRUE,TRUE,Engineer,Rural,Instagram,233,9,9262,Trends,24,7207,6,20,35,11,Night,3,7,Entertainment,Smartphone,iOS,8:30 PM,5,5,At home,Mobile Data
 278,41,Other,Vietnam,75267,TRUE,TRUE,Labor/Worker,Rural,Instagram,163,4,3082,Vlogs,20,5819,7,1,1,17,Afternoon,5,5,Entertainment,Tablet,iOS,6:05 PM,7,3,Commuting,Mobile Data
 279,50,Male,Pakistan,43952,FALSE,TRUE,Teacher,Rural,Instagram,57,12,5449,Gaming,5,9058,3,10,48,66,Night,3,7,Habit,Tablet,Windows,8:30 PM,5,5,At home,Mobile Data
-280,41,Other,Barzil,73798,TRUE,TRUE,Cashier,Rural,YouTube,156,12,3259,Vlogs,6,92,4,8,29,70,Evening,6,4,Habit,Tablet,Android,3:45 PM,8,2,At work,Mobile Data
+280,41,Other,Brazil,73798,TRUE,TRUE,Cashier,Rural,YouTube,156,12,3259,Vlogs,6,92,4,8,29,70,Evening,6,4,Habit,Tablet,Android,3:45 PM,8,2,At work,Mobile Data
 281,28,Female,Philippines,70939,TRUE,TRUE,Waiting staff,Rural,TikTok,73,17,2108,Pranks,24,5161,8,24,4,73,Morning,8,2,Boredom,Smartphone,Android,9:15 AM,10,0,At home,Wi-Fi
-282,25,Female,Barzil,49516,FALSE,TRUE,Students,Rural,TikTok,191,15,7929,Vlogs,11,7632,4,29,33,69,Evening,6,4,Boredom,Tablet,Android,3:45 PM,8,2,At work,Wi-Fi
+282,25,Female,Brazil,49516,FALSE,TRUE,Students,Rural,TikTok,191,15,7929,Vlogs,11,7632,4,29,33,69,Evening,6,4,Boredom,Tablet,Android,3:45 PM,8,2,At work,Wi-Fi
 283,53,Male,Mexico,76526,TRUE,TRUE,Teacher,Rural,YouTube,134,9,2934,Gaming,8,9543,7,8,17,84,Evening,6,4,Procrastination,Computer,iOS,3:45 PM,8,2,At home,Mobile Data
 284,55,Male,India,30449,FALSE,TRUE,Labor/Worker,Rural,YouTube,188,7,2830,Trends,7,6208,6,19,28,29,Evening,6,4,Boredom,Smartphone,iOS,3:45 PM,8,2,Commuting,Wi-Fi
 285,57,Male,Pakistan,70290,TRUE,TRUE,Students,Urban,YouTube,48,10,8634,Entertainment,4,8556,7,6,26,85,Afternoon,5,5,Habit,Computer,Android,6:05 PM,7,3,At work,Mobile Data
@@ -291,7 +291,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 290,42,Female,United States,35223,FALSE,TRUE,Labor/Worker,Urban,TikTok,20,15,7524,Life Hacks,14,3095,7,9,27,20,Afternoon,5,5,Entertainment,Tablet,iOS,6:05 PM,7,3,Commuting,Mobile Data
 291,46,Female,United States,92237,TRUE,FALSE,Teacher,Rural,Instagram,106,6,626,ASMR,23,6683,9,21,16,27,Evening,6,4,Habit,Computer,Android,3:45 PM,8,2,At home,Mobile Data
 292,35,Female,Indonesia,22597,FALSE,TRUE,Labor/Worker,Urban,YouTube,212,12,1691,Jokes/Memes,12,5181,3,25,10,8,Night,3,7,Entertainment,Smartphone,Windows,8:30 PM,5,5,At work,Mobile Data
-293,63,Male,Barzil,85677,TRUE,FALSE,Waiting staff,Urban,Facebook,30,11,8283,Trends,29,2538,1,22,40,85,Evening,6,4,Habit,Smartphone,Android,3:45 PM,8,2,At home,Wi-Fi
+293,63,Male,Brazil,85677,TRUE,FALSE,Waiting staff,Urban,Facebook,30,11,8283,Trends,29,2538,1,22,40,85,Evening,6,4,Habit,Smartphone,Android,3:45 PM,8,2,At home,Wi-Fi
 294,35,Male,Indonesia,22659,FALSE,TRUE,Students,Rural,Instagram,48,3,6311,Jokes/Memes,12,9488,6,10,12,61,Evening,6,4,Boredom,Smartphone,Windows,3:45 PM,8,2,At school,Wi-Fi
 295,19,Female,India,94567,TRUE,FALSE,Waiting staff,Rural,TikTok,232,2,3007,Jokes/Memes,16,2276,1,10,22,28,Afternoon,5,5,Habit,Smartphone,Android,6:05 PM,7,3,At work,Wi-Fi
 296,52,Male,Vietnam,35037,FALSE,TRUE,Labor/Worker,Rural,Instagram,111,6,4303,Life Hacks,15,8194,1,10,16,87,Afternoon,5,5,Habit,Computer,Android,6:05 PM,7,3,At school,Mobile Data
@@ -300,7 +300,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 299,53,Male,Pakistan,32109,FALSE,TRUE,Waiting staff,Rural,Facebook,100,16,4612,Pranks,11,306,2,16,20,69,Morning,8,2,Boredom,Tablet,Android,9:15 AM,10,0,At work,Wi-Fi
 300,50,Female,Germany,42010,FALSE,TRUE,Students,Rural,YouTube,173,8,9373,Entertainment,17,6575,9,1,1,73,Afternoon,5,5,Habit,Smartphone,Android,6:05 PM,7,3,Commuting,Wi-Fi
 301,21,Female,Philippines,28787,FALSE,TRUE,Waiting staff,Rural,TikTok,120,11,7929,Vlogs,21,4231,5,17,27,7,Afternoon,5,5,Entertainment,Smartphone,iOS,6:05 PM,7,3,At home,Mobile Data
-302,50,Male,Barzil,28472,FALSE,FALSE,Engineer,Urban,Facebook,132,10,4491,Vlogs,15,6028,8,26,3,60,Afternoon,5,5,Habit,Smartphone,iOS,6:05 PM,7,3,At home,Mobile Data
+302,50,Male,Brazil,28472,FALSE,FALSE,Engineer,Urban,Facebook,132,10,4491,Vlogs,15,6028,8,26,3,60,Afternoon,5,5,Habit,Smartphone,iOS,6:05 PM,7,3,At home,Mobile Data
 303,31,Male,Indonesia,43383,FALSE,TRUE,Cashier,Rural,TikTok,202,12,8379,Jokes/Memes,14,6658,7,21,12,4,Afternoon,5,5,Boredom,Computer,Android,6:05 PM,7,3,At school,Mobile Data
 304,38,Other,Indonesia,81709,TRUE,FALSE,Waiting staff,Rural,TikTok,108,6,1598,Gaming,10,6336,7,29,30,5,Evening,6,4,Boredom,Smartphone,iOS,3:45 PM,8,2,At home,Mobile Data
 305,37,Other,United States,89785,TRUE,TRUE,Artist,Rural,TikTok,168,5,3748,Jokes/Memes,12,9630,4,14,9,11,Evening,6,4,Boredom,Smartphone,iOS,3:45 PM,8,2,At work,Mobile Data
@@ -327,7 +327,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 326,45,Female,India,76307,TRUE,TRUE,Manager,Urban,Instagram,186,3,4594,Gaming,4,4781,8,26,43,67,Night,3,7,Habit,Computer,MacOS,8:30 PM,5,5,At work,Mobile Data
 327,64,Male,United States,24493,FALSE,FALSE,Students,Rural,YouTube,227,6,3989,Gaming,5,4064,7,2,22,40,Night,3,7,Entertainment,Tablet,MacOS,8:30 PM,5,5,At school,Mobile Data
 328,50,Male,Vietnam,70085,TRUE,TRUE,Manager,Rural,YouTube,198,2,6204,ASMR,5,2398,8,27,3,98,Afternoon,5,5,Boredom,Smartphone,Android,6:05 PM,7,3,Commuting,Mobile Data
-329,22,Male,Barzil,54228,TRUE,FALSE,Students,Rural,TikTok,239,17,257,Gaming,11,142,8,25,15,69,Night,3,7,Habit,Smartphone,Windows,8:30 PM,5,5,At home,Mobile Data
+329,22,Male,Brazil,54228,TRUE,FALSE,Students,Rural,TikTok,239,17,257,Gaming,11,142,8,25,15,69,Night,3,7,Habit,Smartphone,Windows,8:30 PM,5,5,At home,Mobile Data
 330,36,Other,Pakistan,99676,TRUE,TRUE,Students,Rural,Instagram,264,12,8769,Jokes/Memes,9,5062,7,16,35,95,Afternoon,5,5,Habit,Tablet,Android,6:05 PM,7,3,At work,Mobile Data
 331,21,Other,Japan,71875,TRUE,FALSE,driver,Rural,TikTok,245,12,38,Jokes/Memes,28,3469,2,22,47,77,Afternoon,5,5,Entertainment,Smartphone,iOS,6:05 PM,7,3,At school,Wi-Fi
 332,52,Male,India,51655,TRUE,TRUE,Waiting staff,Rural,TikTok,35,17,8653,Life Hacks,16,3695,9,5,38,43,Afternoon,5,5,Entertainment,Tablet,iOS,6:05 PM,7,3,At work,Mobile Data
@@ -335,7 +335,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 334,61,Female,United States,69437,TRUE,TRUE,Waiting staff,Rural,TikTok,270,3,1833,ASMR,22,642,6,12,14,22,Evening,6,4,Entertainment,Smartphone,iOS,3:45 PM,8,2,At school,Mobile Data
 335,45,Female,Pakistan,69416,TRUE,FALSE,driver,Rural,YouTube,263,18,7601,ASMR,4,2548,9,3,48,62,Night,3,7,Boredom,Smartphone,Android,8:30 PM,5,5,At work,Mobile Data
 336,47,Female,India,79711,TRUE,TRUE,Teacher,Rural,Instagram,280,13,5168,Trends,2,8561,1,16,1,79,Afternoon,5,5,Boredom,Tablet,Android,6:05 PM,7,3,Commuting,Mobile Data
-337,46,Male,Barzil,26816,FALSE,FALSE,Students,Urban,Instagram,132,12,433,ASMR,14,3650,2,6,49,26,Night,3,7,Procrastination,Tablet,Android,8:30 PM,5,5,At school,Mobile Data
+337,46,Male,Brazil,26816,FALSE,FALSE,Students,Urban,Instagram,132,12,433,ASMR,14,3650,2,6,49,26,Night,3,7,Procrastination,Tablet,Android,8:30 PM,5,5,At school,Mobile Data
 338,63,Male,India,97175,TRUE,TRUE,Labor/Worker,Rural,Instagram,153,17,4152,Gaming,3,7549,1,15,26,18,Evening,6,4,Entertainment,Tablet,Android,3:45 PM,8,2,At home,Mobile Data
 339,23,Female,United States,84307,TRUE,FALSE,Students,Rural,Instagram,266,4,6412,Life Hacks,18,8978,3,15,8,48,Night,3,7,Boredom,Smartphone,iOS,8:30 PM,5,5,At home,Wi-Fi
 340,52,Male,India,66733,TRUE,TRUE,Labor/Worker,Rural,TikTok,153,10,1752,Gaming,21,949,5,29,16,9,Evening,6,4,Habit,Smartphone,Windows,3:45 PM,8,2,At school,Mobile Data
@@ -343,14 +343,14 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 342,54,Other,Vietnam,91363,TRUE,TRUE,Students,Urban,YouTube,56,6,5721,Entertainment,11,521,4,20,10,9,Morning,8,2,Entertainment,Tablet,iOS,9:15 AM,10,0,At school,Mobile Data
 343,41,Female,India,52762,TRUE,TRUE,Cashier,Urban,Facebook,22,6,7617,ASMR,21,6632,8,13,42,23,Morning,8,2,Habit,Computer,iOS,9:15 AM,10,0,Commuting,Mobile Data
 344,46,Male,India,28259,FALSE,FALSE,driver,Urban,Facebook,217,9,257,Vlogs,18,6048,6,12,37,45,Evening,6,4,Entertainment,Smartphone,Android,3:45 PM,8,2,At school,Wi-Fi
-345,63,Female,Barzil,70139,TRUE,TRUE,Labor/Worker,Rural,YouTube,244,15,672,Entertainment,12,354,1,10,26,2,Evening,6,4,Boredom,Smartphone,MacOS,3:45 PM,8,2,At school,Mobile Data
+345,63,Female,Brazil,70139,TRUE,TRUE,Labor/Worker,Rural,YouTube,244,15,672,Entertainment,12,354,1,10,26,2,Evening,6,4,Boredom,Smartphone,MacOS,3:45 PM,8,2,At school,Mobile Data
 346,48,Female,United States,34849,FALSE,FALSE,Engineer,Rural,Facebook,158,2,490,ASMR,5,1482,1,14,28,14,Night,3,7,Boredom,Computer,Android,8:30 PM,5,5,At home,Wi-Fi
 347,52,Male,India,74869,TRUE,TRUE,Students,Rural,YouTube,164,4,6890,Life Hacks,9,9839,3,2,12,38,Evening,6,4,Habit,Smartphone,Android,3:45 PM,8,2,At school,Wi-Fi
 348,50,Other,Indonesia,83095,TRUE,FALSE,Waiting staff,Urban,TikTok,175,5,2097,Comedy,20,6994,8,29,20,40,Evening,6,4,Boredom,Tablet,iOS,3:45 PM,8,2,At school,Mobile Data
 349,38,Female,United States,90910,TRUE,TRUE,Engineer,Rural,Instagram,99,17,1683,Life Hacks,28,2215,8,3,49,63,Morning,8,2,Boredom,Smartphone,Android,9:15 AM,10,0,At work,Wi-Fi
 350,49,Male,India,43567,FALSE,FALSE,Labor/Worker,Rural,Instagram,195,8,2461,Life Hacks,26,4716,3,9,14,82,Night,3,7,Entertainment,Smartphone,MacOS,8:30 PM,5,5,At school,Mobile Data
 351,40,Male,Vietnam,55292,TRUE,TRUE,driver,Rural,TikTok,183,8,4530,Comedy,18,8619,7,11,46,16,Morning,8,2,Habit,Tablet,Android,9:15 AM,10,0,At home,Wi-Fi
-352,50,Male,Barzil,94813,TRUE,FALSE,Students,Rural,Instagram,226,12,5122,Entertainment,19,5821,3,11,35,93,Evening,6,4,Habit,Smartphone,Android,3:45 PM,8,2,At home,Wi-Fi
+352,50,Male,Brazil,94813,TRUE,FALSE,Students,Rural,Instagram,226,12,5122,Entertainment,19,5821,3,11,35,93,Evening,6,4,Habit,Smartphone,Android,3:45 PM,8,2,At home,Wi-Fi
 353,20,Other,Germany,71631,TRUE,TRUE,Manager,Rural,Instagram,273,8,1976,Jokes/Memes,3,2537,4,25,29,75,Afternoon,5,5,Habit,Tablet,Android,6:05 PM,7,3,At work,Mobile Data
 354,35,Female,Pakistan,29885,FALSE,FALSE,Waiting staff,Rural,Facebook,106,19,3217,Trends,9,6339,9,22,12,6,Night,3,7,Habit,Computer,Android,8:30 PM,5,5,At work,Mobile Data
 355,42,Female,Japan,79659,TRUE,TRUE,Teacher,Rural,TikTok,126,3,9582,Trends,4,8736,4,10,18,3,Night,3,7,Boredom,Smartphone,iOS,8:30 PM,5,5,At school,Wi-Fi
@@ -360,18 +360,18 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 359,57,Male,Japan,49165,FALSE,TRUE,Labor/Worker,Rural,Instagram,257,15,4940,Trends,23,8850,5,20,17,95,Night,3,7,Entertainment,Tablet,Windows,8:30 PM,5,5,At home,Mobile Data
 360,63,Male,India,78929,TRUE,FALSE,Waiting staff,Rural,TikTok,285,6,5564,Jokes/Memes,2,7082,4,27,10,75,Evening,6,4,Boredom,Computer,Android,3:45 PM,8,2,At school,Wi-Fi
 361,41,Male,India,87028,TRUE,TRUE,Students,Rural,Instagram,273,16,2964,Jokes/Memes,9,2827,8,21,18,86,Evening,6,4,Habit,Smartphone,Android,3:45 PM,8,2,At home,Mobile Data
-362,49,Other,Barzil,69812,TRUE,TRUE,Students,Rural,Instagram,67,8,4530,Trends,9,2058,4,10,22,67,Afternoon,5,5,Entertainment,Tablet,Windows,6:05 PM,7,3,At work,Mobile Data
+362,49,Other,Brazil,69812,TRUE,TRUE,Students,Rural,Instagram,67,8,4530,Trends,9,2058,4,10,22,67,Afternoon,5,5,Entertainment,Tablet,Windows,6:05 PM,7,3,At work,Mobile Data
 363,64,Male,United States,70500,TRUE,TRUE,Cashier,Rural,TikTok,40,16,6787,Jokes/Memes,5,7749,2,22,19,31,Evening,6,4,Procrastination,Smartphone,Android,3:45 PM,8,2,At home,Mobile Data
 364,39,Female,India,99151,TRUE,TRUE,Teacher,Urban,Instagram,258,18,6201,Jokes/Memes,15,730,6,29,1,33,Morning,8,2,Entertainment,Smartphone,iOS,9:15 AM,10,0,At school,Mobile Data
 365,40,Female,India,78643,TRUE,FALSE,Engineer,Urban,Facebook,102,16,977,Trends,15,1832,2,9,24,88,Evening,6,4,Boredom,Smartphone,Android,3:45 PM,8,2,At work,Wi-Fi
 366,19,Male,Pakistan,64900,TRUE,TRUE,Cashier,Urban,TikTok,274,11,7346,Entertainment,3,8600,3,29,36,1,Afternoon,5,5,Boredom,Smartphone,Android,6:05 PM,7,3,At work,Mobile Data
 367,44,Male,Indonesia,62946,TRUE,FALSE,Students,Urban,Instagram,280,7,46,Gaming,19,6505,1,5,25,44,Night,3,7,Procrastination,Tablet,iOS,8:30 PM,5,5,At home,Mobile Data
 368,59,Male,Philippines,27851,FALSE,TRUE,Students,Rural,YouTube,103,17,1194,Jokes/Memes,28,7170,5,8,36,15,Night,3,7,Boredom,Smartphone,Windows,8:30 PM,5,5,At school,Mobile Data
-369,19,Female,Barzil,36288,FALSE,FALSE,Students,Urban,TikTok,163,17,4513,Jokes/Memes,3,4179,9,11,31,37,Night,3,7,Habit,Smartphone,iOS,8:30 PM,5,5,Commuting,Mobile Data
+369,19,Female,Brazil,36288,FALSE,FALSE,Students,Urban,TikTok,163,17,4513,Jokes/Memes,3,4179,9,11,31,37,Night,3,7,Habit,Smartphone,iOS,8:30 PM,5,5,Commuting,Mobile Data
 370,43,Male,Japan,92692,TRUE,TRUE,Labor/Worker,Rural,TikTok,294,12,4944,Gaming,6,6299,2,1,31,27,Evening,6,4,Entertainment,Tablet,Android,3:45 PM,8,2,At work,Wi-Fi
 371,34,Male,India,87580,TRUE,FALSE,driver,Rural,YouTube,89,13,6283,Gaming,4,7830,7,21,2,48,Evening,6,4,Entertainment,Smartphone,Android,3:45 PM,8,2,At home,Mobile Data
 372,57,Female,Germany,27368,FALSE,TRUE,Labor/Worker,Rural,Instagram,93,10,247,Life Hacks,24,4802,5,10,19,27,Afternoon,5,5,Habit,Tablet,iOS,6:05 PM,7,3,At home,Wi-Fi
-373,50,Male,Barzil,66403,TRUE,FALSE,Students,Urban,Instagram,46,7,3220,Entertainment,13,6057,2,1,12,12,Evening,6,4,Boredom,Computer,Android,3:45 PM,8,2,Commuting,Mobile Data
+373,50,Male,Brazil,66403,TRUE,FALSE,Students,Urban,Instagram,46,7,3220,Entertainment,13,6057,2,1,12,12,Evening,6,4,Boredom,Computer,Android,3:45 PM,8,2,Commuting,Mobile Data
 374,26,Female,Mexico,29168,FALSE,TRUE,Waiting staff,Urban,TikTok,241,14,8984,Pranks,27,6615,8,26,10,67,Morning,8,2,Habit,Tablet,iOS,9:15 AM,10,0,At home,Mobile Data
 375,60,Other,Vietnam,69879,TRUE,FALSE,Teacher,Urban,TikTok,102,1,637,Gaming,13,6762,6,22,31,30,Night,3,7,Boredom,Smartphone,Android,8:30 PM,5,5,At school,Wi-Fi
 376,56,Female,India,79871,TRUE,TRUE,Waiting staff,Rural,Instagram,111,17,3776,Jokes/Memes,27,5543,4,7,45,96,Morning,8,2,Entertainment,Smartphone,iOS,9:15 AM,10,0,At work,Wi-Fi
@@ -379,7 +379,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 378,59,Female,Pakistan,26581,FALSE,TRUE,Students,Urban,Facebook,168,5,9281,Pranks,5,4883,2,14,23,66,Night,3,7,Habit,Tablet,Android,8:30 PM,5,5,At school,Wi-Fi
 379,43,Female,Indonesia,91853,TRUE,FALSE,driver,Rural,TikTok,23,7,4184,Jokes/Memes,1,7050,3,5,23,7,Morning,8,2,Habit,Smartphone,Android,9:15 AM,10,0,At school,Mobile Data
 380,52,Other,Pakistan,84046,TRUE,TRUE,Waiting staff,Urban,TikTok,234,10,713,Jokes/Memes,9,4959,7,17,15,34,Afternoon,5,5,Habit,Tablet,Android,6:05 PM,7,3,At school,Mobile Data
-381,42,Male,Barzil,69678,TRUE,FALSE,Students,Rural,YouTube,82,17,5846,Gaming,17,666,3,22,26,32,Evening,6,4,Habit,Computer,iOS,3:45 PM,8,2,At home,Wi-Fi
+381,42,Male,Brazil,69678,TRUE,FALSE,Students,Rural,YouTube,82,17,5846,Gaming,17,666,3,22,26,32,Evening,6,4,Habit,Computer,iOS,3:45 PM,8,2,At home,Wi-Fi
 382,41,Male,Philippines,46649,FALSE,TRUE,Labor/Worker,Urban,Facebook,258,7,5324,Gaming,22,276,5,26,3,39,Evening,6,4,Entertainment,Tablet,Android,3:45 PM,8,2,At work,Wi-Fi
 383,30,Male,United States,34567,FALSE,TRUE,Labor/Worker,Rural,Instagram,100,1,6033,Jokes/Memes,1,881,6,21,23,96,Evening,6,4,Habit,Tablet,Android,3:45 PM,8,2,At work,Mobile Data
 384,24,Male,Mexico,81944,TRUE,TRUE,Students,Urban,Facebook,225,7,3645,ASMR,3,2060,6,6,20,43,Afternoon,5,5,Habit,Smartphone,MacOS,6:05 PM,7,3,At home,Mobile Data
@@ -393,7 +393,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 392,31,Female,Germany,28770,FALSE,FALSE,Labor/Worker,Urban,Facebook,51,19,3901,Pranks,12,7803,7,12,27,3,Evening,6,4,Boredom,Tablet,Android,3:45 PM,8,2,At home,Wi-Fi
 393,29,Male,Indonesia,31093,FALSE,TRUE,Labor/Worker,Urban,YouTube,173,10,7940,Jokes/Memes,25,2526,3,19,36,74,Night,3,7,Boredom,Smartphone,Windows,8:30 PM,5,5,At home,Mobile Data
 394,40,Male,Japan,66571,TRUE,FALSE,Students,Rural,Instagram,292,5,6964,Vlogs,22,8302,1,12,15,63,Evening,6,4,Boredom,Computer,iOS,3:45 PM,8,2,Commuting,Wi-Fi
-395,32,Male,Barzil,20193,FALSE,TRUE,Manager,Rural,Facebook,67,7,4569,Jokes/Memes,15,7803,2,16,37,40,Night,3,7,Habit,Computer,Android,8:30 PM,5,5,At home,Mobile Data
+395,32,Male,Brazil,20193,FALSE,TRUE,Manager,Rural,Facebook,67,7,4569,Jokes/Memes,15,7803,2,16,37,40,Night,3,7,Habit,Computer,Android,8:30 PM,5,5,At home,Mobile Data
 396,45,Other,United States,37569,FALSE,FALSE,driver,Urban,Facebook,34,16,7839,Pranks,27,6574,9,6,5,18,Evening,6,4,Boredom,Smartphone,Android,3:45 PM,8,2,At home,Wi-Fi
 397,51,Female,Philippines,31190,FALSE,TRUE,Waiting staff,Rural,YouTube,82,1,1846,Life Hacks,9,8733,8,3,39,67,Night,3,7,Habit,Smartphone,iOS,8:30 PM,5,5,At home,Mobile Data
 398,19,Other,India,82824,TRUE,FALSE,Labor/Worker,Rural,Facebook,138,12,383,Entertainment,24,1138,6,2,9,62,Night,3,7,Habit,Tablet,Android,8:30 PM,5,5,At home,Mobile Data
@@ -417,14 +417,14 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 416,21,Female,Indonesia,76044,TRUE,TRUE,Manager,Rural,YouTube,74,17,4218,ASMR,27,7487,2,10,43,66,Night,3,7,Boredom,Smartphone,Android,11:30 PM,5,5,Commuting,Mobile Data
 417,23,Female,Indonesia,83315,TRUE,FALSE,Students,Urban,YouTube,218,12,81,ASMR,29,9721,4,2,35,99,Evening,6,4,Habit,Smartphone,Android,3:55 PM,8,2,At school,Mobile Data
 418,62,Male,India,91344,TRUE,TRUE,Teacher,Rural,Facebook,260,19,2733,Jokes/Memes,15,5645,7,4,12,73,Afternoon,5,5,Boredom,Smartphone,iOS,7:25 PM,7,3,Commuting,Mobile Data
-419,49,Male,Barzil,26796,FALSE,FALSE,Labor/Worker,Urban,TikTok,126,7,7834,Life Hacks,14,1945,2,18,21,51,Night,3,7,Habit,Smartphone,iOS,11:30 PM,5,5,Commuting,Wi-Fi
+419,49,Male,Brazil,26796,FALSE,FALSE,Labor/Worker,Urban,TikTok,126,7,7834,Life Hacks,14,1945,2,18,21,51,Night,3,7,Habit,Smartphone,iOS,11:30 PM,5,5,Commuting,Wi-Fi
 420,47,Male,Vietnam,74245,TRUE,TRUE,Students,Urban,Instagram,125,6,2710,Vlogs,21,4486,8,19,3,18,Morning,8,2,Habit,Smartphone,Android,7:45 AM,10,0,At school,Wi-Fi
 421,64,Male,India,63056,TRUE,FALSE,Students,Urban,TikTok,246,8,2423,Entertainment,29,2430,7,4,15,43,Evening,6,4,Boredom,Smartphone,Android,3:55 PM,8,2,At school,Mobile Data
 422,52,Male,Indonesia,37709,FALSE,TRUE,Engineer,Rural,Instagram,114,13,3642,Gaming,1,3510,9,20,21,12,Morning,8,2,Boredom,Tablet,Windows,7:45 AM,10,0,Commuting,Wi-Fi
 423,57,Male,India,78557,TRUE,FALSE,Waiting staff,Rural,YouTube,268,5,668,Pranks,28,845,6,26,10,3,Night,3,7,Entertainment,Tablet,iOS,11:30 PM,5,5,At home,Mobile Data
 424,33,Male,India,37543,FALSE,TRUE,Waiting staff,Rural,Facebook,55,2,2497,Jokes/Memes,11,567,4,9,33,82,Evening,6,4,Procrastination,Smartphone,Windows,3:55 PM,8,2,At work,Mobile Data
 425,30,Male,India,57418,TRUE,TRUE,Waiting staff,Rural,Facebook,225,9,3500,Comedy,28,2179,6,16,46,7,Evening,6,4,Habit,Smartphone,Android,3:55 PM,8,2,At work,Mobile Data
-426,59,Female,Barzil,36724,FALSE,TRUE,Artist,Urban,TikTok,33,11,9637,Pranks,25,2019,4,26,6,97,Night,3,7,Boredom,Smartphone,Android,11:30 PM,5,5,At school,Mobile Data
+426,59,Female,Brazil,36724,FALSE,TRUE,Artist,Urban,TikTok,33,11,9637,Pranks,25,2019,4,26,6,97,Night,3,7,Boredom,Smartphone,Android,11:30 PM,5,5,At school,Mobile Data
 427,47,Male,United States,23828,FALSE,TRUE,Waiting staff,Rural,Facebook,44,6,9538,ASMR,3,3319,7,6,2,6,Evening,6,4,Habit,Computer,Android,3:55 PM,8,2,At home,Wi-Fi
 428,36,Male,Mexico,37087,FALSE,FALSE,Engineer,Rural,TikTok,33,7,8081,Trends,19,2320,9,25,29,82,Evening,6,4,Entertainment,Smartphone,iOS,3:55 PM,8,2,Commuting,Wi-Fi
 429,34,Male,Indonesia,32605,FALSE,TRUE,Teacher,Urban,TikTok,37,7,6824,Vlogs,18,1646,3,4,40,45,Evening,6,4,Boredom,Computer,Android,3:55 PM,8,2,At work,Wi-Fi
@@ -435,10 +435,10 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 434,43,Male,Philippines,25463,FALSE,FALSE,Students,Rural,TikTok,280,7,9104,Comedy,25,7485,3,6,37,99,Night,3,7,Entertainment,Tablet,Android,11:30 PM,5,5,At work,Wi-Fi
 435,40,Other,Philippines,90448,TRUE,TRUE,Engineer,Rural,TikTok,258,2,1026,Life Hacks,28,3081,7,21,20,23,Evening,6,4,Habit,Smartphone,Android,3:55 PM,8,2,At home,Wi-Fi
 436,26,Other,Japan,24648,FALSE,FALSE,Students,Rural,YouTube,276,19,7786,Vlogs,26,2280,9,19,41,12,Morning,8,2,Boredom,Tablet,Android,7:45 AM,10,0,At home,Wi-Fi
-437,29,Female,Barzil,53623,TRUE,TRUE,Labor/Worker,Urban,TikTok,202,4,72,Trends,7,4131,2,14,23,88,Night,3,7,Boredom,Smartphone,MacOS,11:30 PM,5,5,At school,Mobile Data
+437,29,Female,Brazil,53623,TRUE,TRUE,Labor/Worker,Urban,TikTok,202,4,72,Trends,7,4131,2,14,23,88,Night,3,7,Boredom,Smartphone,MacOS,11:30 PM,5,5,At school,Mobile Data
 438,18,Female,Pakistan,79156,TRUE,FALSE,Students,Urban,TikTok,227,6,5547,Pranks,8,5123,7,21,45,62,Afternoon,6,4,Entertainment,Tablet,Android,7:25 PM,8,2,At school,Wi-Fi
 439,18,Male,Japan,55634,TRUE,TRUE,Students,Rural,YouTube,124,17,2686,ASMR,19,7422,1,15,18,73,Evening,7,3,Habit,Smartphone,Windows,3:55 PM,9,1,At work,Mobile Data
-440,64,Male,Barzil,64602,TRUE,FALSE,Cashier,Rural,YouTube,77,5,9386,Jokes/Memes,22,2787,2,3,49,77,Night,2,8,Entertainment,Smartphone,iOS,11:30 PM,4,6,At school,Wi-Fi
+440,64,Male,Brazil,64602,TRUE,FALSE,Cashier,Rural,YouTube,77,5,9386,Jokes/Memes,22,2787,2,3,49,77,Night,2,8,Entertainment,Smartphone,iOS,11:30 PM,4,6,At school,Wi-Fi
 441,51,Female,Vietnam,69334,TRUE,TRUE,Cashier,Urban,Facebook,84,7,7373,Entertainment,15,4209,6,5,25,40,Night,2,8,Entertainment,Smartphone,MacOS,11:30 PM,4,6,At work,Mobile Data
 442,49,Male,India,88648,TRUE,FALSE,Labor/Worker,Rural,TikTok,112,9,1849,Vlogs,10,6540,5,21,1,54,Evening,7,3,Boredom,Smartphone,Android,3:55 PM,9,1,At school,Mobile Data
 443,42,Male,Vietnam,42054,FALSE,TRUE,driver,Rural,Facebook,187,1,2023,Pranks,22,9389,8,18,15,81,Morning,9,1,Habit,Smartphone,Android,7:45 AM,10,0,At work,Mobile Data
@@ -446,7 +446,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 445,62,Male,United States,42207,FALSE,TRUE,Students,Rural,YouTube,48,19,3742,Life Hacks,1,465,1,16,48,17,Evening,7,3,Boredom,Tablet,Android,3:55 PM,9,1,At school,Mobile Data
 446,18,Male,India,41386,FALSE,TRUE,Waiting staff,Rural,Instagram,268,6,1299,Life Hacks,6,1487,7,14,20,50,Night,2,8,Entertainment,Smartphone,Android,11:30 PM,4,6,At work,Mobile Data
 447,33,Female,Philippines,79518,TRUE,TRUE,Labor/Worker,Rural,Facebook,213,18,4103,Gaming,13,4942,6,9,37,24,Morning,9,1,Entertainment,Smartphone,Android,7:45 AM,10,0,At home,Wi-Fi
-448,56,Male,Barzil,72781,TRUE,TRUE,Engineer,Rural,Instagram,16,10,905,Vlogs,14,4597,8,15,27,2,Evening,7,3,Boredom,Smartphone,Android,3:55 PM,9,1,Commuting,Mobile Data
+448,56,Male,Brazil,72781,TRUE,TRUE,Engineer,Rural,Instagram,16,10,905,Vlogs,14,4597,8,15,27,2,Evening,7,3,Boredom,Smartphone,Android,3:55 PM,9,1,Commuting,Mobile Data
 449,22,Male,Vietnam,72780,TRUE,FALSE,Labor/Worker,Urban,TikTok,58,11,3027,Trends,3,4536,8,7,22,99,Night,2,8,Boredom,Tablet,MacOS,11:30 PM,4,6,At school,Mobile Data
 450,39,Female,India,81440,TRUE,TRUE,driver,Urban,YouTube,35,1,6710,Entertainment,11,325,2,14,5,92,Evening,7,3,Boredom,Smartphone,Android,3:55 PM,9,1,At home,Mobile Data
 451,46,Other,Mexico,64199,TRUE,FALSE,driver,Urban,TikTok,170,1,4712,Jokes/Memes,3,9957,8,6,34,83,Afternoon,6,4,Habit,Smartphone,Windows,7:25 PM,8,2,At school,Mobile Data
@@ -464,7 +464,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 463,47,Female,Indonesia,23321,FALSE,FALSE,Labor/Worker,Rural,TikTok,65,17,1441,Jokes/Memes,4,528,9,22,29,53,Morning,9,1,Procrastination,Tablet,Windows,7:45 AM,10,0,At home,Wi-Fi
 464,63,Male,India,57383,TRUE,TRUE,Engineer,Rural,TikTok,44,2,766,Life Hacks,13,4675,8,20,29,19,Afternoon,6,4,Entertainment,Smartphone,Android,7:25 PM,8,2,At work,Mobile Data
 465,22,Male,Mexico,98682,TRUE,FALSE,Labor/Worker,Urban,TikTok,121,5,4093,Jokes/Memes,9,1663,4,16,10,69,Night,2,8,Habit,Tablet,iOS,11:30 PM,4,6,At work,Mobile Data
-466,29,Female,Barzil,99190,TRUE,TRUE,Waiting staff,Rural,Instagram,295,4,9342,ASMR,25,3364,8,7,32,25,Evening,7,3,Habit,Smartphone,iOS,3:55 PM,9,1,At home,Wi-Fi
+466,29,Female,Brazil,99190,TRUE,TRUE,Waiting staff,Rural,Instagram,295,4,9342,ASMR,25,3364,8,7,32,25,Evening,7,3,Habit,Smartphone,iOS,3:55 PM,9,1,At home,Wi-Fi
 467,33,Female,India,72893,TRUE,TRUE,driver,Rural,YouTube,45,4,2667,Trends,17,2341,8,7,23,11,Afternoon,6,4,Entertainment,Smartphone,iOS,7:25 PM,8,2,Commuting,Wi-Fi
 468,43,Male,United States,55820,TRUE,TRUE,Students,Rural,Facebook,226,6,8656,Vlogs,2,6656,7,18,39,74,Evening,7,3,Procrastination,Smartphone,Android,3:55 PM,9,1,At school,Wi-Fi
 469,43,Female,Vietnam,86262,TRUE,TRUE,Manager,Rural,Facebook,89,13,5969,Life Hacks,24,4905,6,18,9,17,Morning,9,1,Boredom,Smartphone,Android,7:45 AM,10,0,At work,Mobile Data
@@ -474,7 +474,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 473,50,Other,Philippines,43377,FALSE,TRUE,Labor/Worker,Rural,Instagram,31,14,3889,Comedy,1,1360,4,18,4,96,Night,2,8,Habit,Tablet,Android,11:30 PM,4,6,At work,Mobile Data
 474,47,Male,United States,66737,TRUE,FALSE,Students,Rural,YouTube,225,4,841,Jokes/Memes,28,5127,2,29,20,21,Afternoon,6,4,Habit,Smartphone,iOS,7:25 PM,8,2,At work,Mobile Data
 475,54,Male,India,89569,TRUE,TRUE,Manager,Rural,TikTok,116,17,5900,Life Hacks,26,5562,8,9,28,18,Morning,9,1,Boredom,Smartphone,Windows,7:45 AM,10,0,Commuting,Wi-Fi
-476,40,Male,Barzil,58211,TRUE,FALSE,Manager,Rural,Instagram,118,14,4119,Comedy,12,8730,9,14,14,60,Night,2,8,Entertainment,Smartphone,Android,11:30 PM,4,6,At home,Wi-Fi
+476,40,Male,Brazil,58211,TRUE,FALSE,Manager,Rural,Instagram,118,14,4119,Comedy,12,8730,9,14,14,60,Night,2,8,Entertainment,Smartphone,Android,11:30 PM,4,6,At home,Wi-Fi
 477,27,Female,India,23744,FALSE,TRUE,driver,Rural,TikTok,190,16,566,Life Hacks,21,9011,4,5,44,18,Morning,9,1,Habit,Smartphone,Android,7:45 AM,10,0,At school,Mobile Data
 478,22,Male,Philippines,44995,FALSE,FALSE,driver,Urban,Facebook,173,14,6006,Gaming,11,5777,4,11,34,1,Afternoon,6,4,Procrastination,Computer,MacOS,7:25 PM,8,2,At home,Mobile Data
 479,53,Male,India,36977,FALSE,TRUE,Students,Urban,Instagram,77,16,9157,Entertainment,12,3925,5,8,13,14,Evening,7,3,Entertainment,Smartphone,MacOS,3:55 PM,9,1,At home,Mobile Data
@@ -488,11 +488,11 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 487,62,Male,Germany,34376,FALSE,TRUE,Waiting staff,Urban,Instagram,112,18,2983,Life Hacks,25,7119,5,15,28,62,Night,2,8,Entertainment,Tablet,Android,11:30 PM,4,6,At work,Wi-Fi
 488,21,Other,India,81350,TRUE,TRUE,Labor/Worker,Rural,YouTube,56,14,9306,Life Hacks,29,9797,6,19,31,1,Afternoon,6,4,Boredom,Smartphone,iOS,7:25 PM,8,2,At work,Wi-Fi
 489,33,Male,United States,91425,TRUE,TRUE,Waiting staff,Urban,TikTok,48,17,6084,Gaming,4,4210,3,22,17,85,Evening,7,3,Boredom,Smartphone,Android,3:55 PM,9,1,At home,Wi-Fi
-490,41,Female,Barzil,56636,TRUE,TRUE,Students,Rural,Instagram,294,13,557,Pranks,20,6406,1,2,23,42,Evening,7,3,Entertainment,Computer,Windows,3:55 PM,9,1,Commuting,Mobile Data
+490,41,Female,Brazil,56636,TRUE,TRUE,Students,Rural,Instagram,294,13,557,Pranks,20,6406,1,2,23,42,Evening,7,3,Entertainment,Computer,Windows,3:55 PM,9,1,Commuting,Mobile Data
 491,33,Female,Pakistan,71649,TRUE,FALSE,driver,Urban,YouTube,99,1,3020,Vlogs,23,3377,9,24,13,1,Evening,7,3,Entertainment,Tablet,Android,3:55 PM,9,1,At home,Wi-Fi
 492,19,Male,United States,54610,TRUE,TRUE,Students,Rural,TikTok,94,5,2581,Jokes/Memes,26,4071,9,17,10,96,Evening,7,3,Habit,Smartphone,iOS,3:55 PM,9,1,At work,Mobile Data
 493,45,Female,India,30058,FALSE,FALSE,Students,Rural,Instagram,282,13,8147,ASMR,16,1440,3,12,16,84,Night,2,8,Boredom,Tablet,Android,11:30 PM,4,6,At home,Mobile Data
-494,49,Male,Barzil,94637,TRUE,TRUE,Students,Rural,TikTok,197,14,8244,Entertainment,10,3626,4,25,6,54,Night,2,8,Habit,Tablet,Android,11:30 PM,4,6,At home,Mobile Data
+494,49,Male,Brazil,94637,TRUE,TRUE,Students,Rural,TikTok,197,14,8244,Entertainment,10,3626,4,25,6,54,Night,2,8,Habit,Tablet,Android,11:30 PM,4,6,At home,Mobile Data
 495,44,Male,Indonesia,98033,TRUE,FALSE,Labor/Worker,Rural,TikTok,168,3,9554,Gaming,13,184,7,24,48,47,Afternoon,6,4,Procrastination,Computer,iOS,7:25 PM,8,2,At school,Mobile Data
 496,37,Male,India,90194,TRUE,TRUE,Waiting staff,Rural,YouTube,252,15,9387,Jokes/Memes,2,4996,2,17,11,39,Night,2,8,Procrastination,Smartphone,Android,11:30 PM,4,6,At work,Mobile Data
 497,41,Female,Indonesia,96917,TRUE,FALSE,Engineer,Urban,TikTok,82,19,4020,Vlogs,3,8412,3,10,3,30,Night,2,8,Entertainment,Tablet,Android,11:30 PM,4,6,At home,Mobile Data
@@ -513,7 +513,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 512,46,Male,Pakistan,22282,FALSE,FALSE,Students,Urban,TikTok,153,11,6328,Gaming,23,1152,3,7,28,97,Afternoon,6,4,Boredom,Smartphone,Android,7:25 PM,8,2,At school,Wi-Fi
 513,30,Female,Indonesia,54624,TRUE,TRUE,Engineer,Rural,YouTube,149,6,1047,ASMR,23,56,5,12,15,19,Morning,9,1,Entertainment,Smartphone,iOS,7:45 AM,10,0,At work,Wi-Fi
 514,29,Female,India,68438,TRUE,FALSE,Labor/Worker,Urban,Instagram,38,4,2177,Vlogs,18,9396,2,2,46,88,Night,2,8,Entertainment,Smartphone,iOS,11:30 PM,4,6,At home,Mobile Data
-515,48,Other,Barzil,87534,TRUE,TRUE,Labor/Worker,Rural,TikTok,279,12,2339,Comedy,14,143,7,10,11,82,Afternoon,6,4,Boredom,Smartphone,Android,7:25 PM,8,2,At work,Mobile Data
+515,48,Other,Brazil,87534,TRUE,TRUE,Labor/Worker,Rural,TikTok,279,12,2339,Comedy,14,143,7,10,11,82,Afternoon,6,4,Boredom,Smartphone,Android,7:25 PM,8,2,At work,Mobile Data
 516,63,Male,United States,51705,TRUE,FALSE,Students,Rural,Instagram,256,11,501,Entertainment,19,7218,8,5,31,99,Evening,7,3,Procrastination,Smartphone,Windows,3:55 PM,9,1,At home,Mobile Data
 517,19,Male,Japan,58244,TRUE,TRUE,Waiting staff,Urban,TikTok,21,13,2234,Vlogs,28,8559,6,21,4,62,Afternoon,6,4,Habit,Smartphone,Android,7:25 PM,8,2,At school,Mobile Data
 518,52,Male,United States,94964,TRUE,FALSE,Waiting staff,Urban,Facebook,115,5,4609,Trends,26,9674,8,3,35,83,Morning,9,1,Entertainment,Smartphone,Android,7:45 AM,10,0,At work,Mobile Data
@@ -565,7 +565,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 564,36,Male,Germany,99239,TRUE,FALSE,Students,Rural,Instagram,76,15,5791,Pranks,10,5612,6,15,37,28,Evening,7,3,Procrastination,Smartphone,Android,3:55 PM,9,1,At work,Mobile Data
 565,53,Male,India,20929,FALSE,TRUE,Students,Rural,Instagram,39,18,4176,Vlogs,22,5769,8,9,49,79,Evening,7,3,Procrastination,Smartphone,MacOS,3:55 PM,9,1,At home,Mobile Data
 566,29,Female,Vietnam,97487,TRUE,FALSE,driver,Rural,TikTok,123,18,5081,Comedy,17,1777,7,10,36,66,Night,3,7,Habit,Smartphone,Android,11:30 PM,5,5,At school,Mobile Data
-567,58,Other,Barzil,37438,FALSE,TRUE,Teacher,Rural,Facebook,213,7,865,Jokes/Memes,26,7380,2,23,23,71,Evening,5,5,Habit,Smartphone,Android,3:55 PM,7,3,At home,Wi-Fi
+567,58,Other,Brazil,37438,FALSE,TRUE,Teacher,Rural,Facebook,213,7,865,Jokes/Memes,26,7380,2,23,23,71,Evening,5,5,Habit,Smartphone,Android,3:55 PM,7,3,At home,Wi-Fi
 568,36,Other,India,68515,TRUE,FALSE,Students,Rural,YouTube,38,15,6861,Trends,3,2228,7,20,45,47,Evening,5,5,Boredom,Smartphone,Android,3:55 PM,7,3,At school,Mobile Data
 569,29,Male,India,25744,FALSE,TRUE,Manager,Rural,Facebook,140,18,8664,Vlogs,7,9981,6,20,16,82,Evening,5,5,Boredom,Smartphone,Android,3:55 PM,7,3,At work,Mobile Data
 570,26,Other,United States,62417,TRUE,FALSE,Students,Rural,Instagram,194,18,6218,Jokes/Memes,12,8804,5,4,48,86,Night,1,9,Procrastination,Smartphone,Android,11:30 PM,3,7,At work,Wi-Fi
@@ -579,7 +579,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 578,22,Male,Philippines,92127,TRUE,TRUE,Waiting staff,Rural,YouTube,150,10,3484,Pranks,10,637,8,21,48,61,Evening,5,5,Habit,Smartphone,Android,3:55 PM,7,3,At school,Mobile Data
 579,52,Other,Mexico,97362,TRUE,FALSE,Labor/Worker,Rural,YouTube,240,5,4563,Vlogs,22,8090,6,5,49,36,Evening,5,5,Habit,Smartphone,MacOS,3:55 PM,7,3,At work,Mobile Data
 580,29,Male,Japan,46417,FALSE,TRUE,Students,Rural,TikTok,172,11,599,Pranks,6,949,5,29,17,13,Evening,5,5,Entertainment,Smartphone,Windows,3:55 PM,7,3,At work,Mobile Data
-581,42,Male,Barzil,38693,FALSE,FALSE,driver,Rural,Instagram,139,1,9184,Vlogs,25,3587,2,11,44,16,Evening,5,5,Boredom,Smartphone,Android,3:55 PM,7,3,At home,Mobile Data
+581,42,Male,Brazil,38693,FALSE,FALSE,driver,Rural,Instagram,139,1,9184,Vlogs,25,3587,2,11,44,16,Evening,5,5,Boredom,Smartphone,Android,3:55 PM,7,3,At home,Mobile Data
 582,38,Male,India,99674,TRUE,TRUE,driver,Rural,Facebook,255,2,3042,ASMR,1,1111,9,23,10,80,Night,1,9,Procrastination,Smartphone,Android,11:30 PM,3,7,At school,Wi-Fi
 583,53,Other,Japan,73161,TRUE,FALSE,Teacher,Rural,Facebook,181,1,8161,Vlogs,22,8367,1,11,20,5,Morning,7,3,Boredom,Smartphone,Windows,7:45 AM,9,1,At school,Mobile Data
 584,40,Female,India,22169,FALSE,TRUE,Teacher,Rural,TikTok,73,19,6392,Life Hacks,12,722,2,13,6,89,Night,1,9,Habit,Tablet,MacOS,11:30 PM,3,7,At school,Wi-Fi
@@ -587,16 +587,16 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 586,56,Female,Japan,91849,TRUE,TRUE,Labor/Worker,Rural,TikTok,56,4,67,Vlogs,13,3674,4,28,45,50,Morning,7,3,Entertainment,Smartphone,Android,7:45 AM,9,1,At work,Mobile Data
 587,62,Male,Vietnam,93851,TRUE,FALSE,Students,Urban,TikTok,139,12,8124,Gaming,27,4866,4,8,34,38,Night,1,9,Habit,Smartphone,iOS,11:30 PM,3,7,At work,Mobile Data
 588,59,Female,India,28036,FALSE,TRUE,Labor/Worker,Rural,TikTok,119,18,2751,Gaming,15,702,5,25,32,56,Evening,5,5,Entertainment,Tablet,MacOS,3:55 PM,7,3,At work,Wi-Fi
-589,56,Male,Barzil,51778,TRUE,FALSE,Students,Rural,TikTok,78,1,8662,Comedy,22,2128,5,18,42,63,Evening,5,5,Habit,Smartphone,Android,3:55 PM,7,3,At work,Wi-Fi
+589,56,Male,Brazil,51778,TRUE,FALSE,Students,Rural,TikTok,78,1,8662,Comedy,22,2128,5,18,42,63,Evening,5,5,Habit,Smartphone,Android,3:55 PM,7,3,At work,Wi-Fi
 590,31,Male,Vietnam,47734,FALSE,TRUE,Waiting staff,Urban,Instagram,67,1,9917,Jokes/Memes,11,9118,8,19,4,48,Night,1,9,Boredom,Tablet,iOS,11:30 PM,3,7,At home,Mobile Data
 591,48,Female,India,43173,FALSE,FALSE,Labor/Worker,Rural,Instagram,115,14,6807,Vlogs,8,4233,3,12,44,90,Night,1,9,Boredom,Tablet,Android,11:30 PM,3,7,At home,Wi-Fi
 592,22,Male,United States,50403,TRUE,TRUE,Labor/Worker,Rural,YouTube,265,4,6430,Life Hacks,5,2517,6,12,39,59,Evening,5,5,Habit,Smartphone,Android,3:55 PM,7,3,At home,Mobile Data
 593,52,Other,United States,86321,TRUE,TRUE,Cashier,Rural,TikTok,180,5,8124,ASMR,2,1149,3,18,20,77,Night,1,9,Entertainment,Tablet,Windows,11:30 PM,3,7,At work,Mobile Data
-594,40,Male,Barzil,91675,TRUE,TRUE,Labor/Worker,Rural,Instagram,171,11,1632,Gaming,12,1878,2,10,24,44,Afternoon,4,6,Boredom,Tablet,Android,7:25 PM,6,4,At home,Mobile Data
+594,40,Male,Brazil,91675,TRUE,TRUE,Labor/Worker,Rural,Instagram,171,11,1632,Gaming,12,1878,2,10,24,44,Afternoon,4,6,Boredom,Tablet,Android,7:25 PM,6,4,At home,Mobile Data
 595,46,Male,Mexico,26344,FALSE,TRUE,Cashier,Rural,YouTube,295,13,6453,Gaming,28,9445,8,7,24,90,Evening,5,5,Entertainment,Tablet,iOS,3:55 PM,7,3,At work,Mobile Data
 596,60,Other,India,38800,FALSE,FALSE,Labor/Worker,Urban,TikTok,80,16,775,Entertainment,2,9675,1,28,26,55,Afternoon,4,6,Entertainment,Smartphone,Android,7:25 PM,6,4,At home,Mobile Data
 597,28,Male,United States,45372,FALSE,TRUE,Teacher,Rural,Facebook,264,13,6108,Jokes/Memes,26,309,9,18,25,55,Night,1,9,Habit,Tablet,Android,11:30 PM,3,7,At school,Wi-Fi
-598,35,Male,Barzil,81516,TRUE,FALSE,Labor/Worker,Rural,Instagram,64,2,7805,Entertainment,16,3952,7,12,36,1,Night,1,9,Boredom,Tablet,Android,11:30 PM,3,7,At work,Wi-Fi
+598,35,Male,Brazil,81516,TRUE,FALSE,Labor/Worker,Rural,Instagram,64,2,7805,Entertainment,16,3952,7,12,36,1,Night,1,9,Boredom,Tablet,Android,11:30 PM,3,7,At work,Wi-Fi
 599,64,Male,Vietnam,40538,FALSE,TRUE,Students,Rural,YouTube,12,16,9679,Comedy,21,7728,4,14,7,8,Afternoon,4,6,Boredom,Tablet,Windows,7:25 PM,6,4,At work,Wi-Fi
 600,29,Female,United States,83918,TRUE,FALSE,Labor/Worker,Rural,Facebook,35,6,4020,Pranks,3,3049,3,15,10,4,Night,1,9,Entertainment,Computer,iOS,10:15 PM,3,7,At school,Wi-Fi
 601,26,Female,Philippines,34973,FALSE,TRUE,Students,Rural,TikTok,135,14,930,Jokes/Memes,10,5766,6,16,47,85,Morning,7,3,Entertainment,Tablet,Android,9:55 AM,9,1,At home,Mobile Data
@@ -604,22 +604,22 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 603,61,Male,United States,79500,TRUE,TRUE,Students,Urban,TikTok,207,17,5025,Life Hacks,8,9692,9,18,1,53,Night,1,9,Habit,Smartphone,Android,10:15 PM,3,7,At home,Mobile Data
 604,34,Male,Vietnam,56575,TRUE,FALSE,Waiting staff,Urban,Instagram,197,11,6265,Vlogs,7,6412,4,12,25,58,Evening,5,5,Procrastination,Tablet,Android,4:25 PM,7,3,At school,Mobile Data
 605,55,Female,Indonesia,62261,TRUE,TRUE,Waiting staff,Rural,YouTube,195,19,7974,Trends,1,4865,5,16,16,37,Night,1,9,Entertainment,Smartphone,Android,10:15 PM,3,7,At work,Mobile Data
-606,24,Male,Barzil,47716,FALSE,FALSE,Waiting staff,Rural,Facebook,213,3,9698,Gaming,12,15,9,13,5,49,Evening,5,5,Habit,Smartphone,Android,4:25 PM,7,3,At home,Mobile Data
+606,24,Male,Brazil,47716,FALSE,FALSE,Waiting staff,Rural,Facebook,213,3,9698,Gaming,12,15,9,13,5,49,Evening,5,5,Habit,Smartphone,Android,4:25 PM,7,3,At home,Mobile Data
 607,63,Female,India,23236,FALSE,TRUE,Artist,Rural,YouTube,20,11,4730,Entertainment,29,605,2,20,19,67,Evening,5,5,Entertainment,Smartphone,Android,4:25 PM,7,3,At home,Mobile Data
 608,30,Female,United States,35848,FALSE,FALSE,driver,Rural,Instagram,155,5,7962,ASMR,28,9573,2,17,4,19,Morning,7,3,Entertainment,Smartphone,Android,9:55 AM,9,1,At work,Wi-Fi
 609,57,Other,United States,22352,FALSE,TRUE,Students,Rural,YouTube,94,17,2820,Life Hacks,5,4908,5,18,6,1,Night,1,9,Entertainment,Smartphone,Android,10:15 PM,3,7,At school,Mobile Data
 610,59,Male,Philippines,21932,FALSE,FALSE,Waiting staff,Rural,Instagram,109,7,6656,Jokes/Memes,16,8006,1,3,26,29,Night,1,9,Boredom,Smartphone,iOS,10:15 PM,3,7,At work,Mobile Data
 611,26,Male,India,96449,TRUE,TRUE,Cashier,Rural,TikTok,113,10,1185,Life Hacks,25,9086,8,23,49,87,Evening,5,5,Boredom,Smartphone,iOS,4:25 PM,7,3,At school,Mobile Data
-612,44,Male,Barzil,28556,FALSE,FALSE,driver,Rural,Facebook,55,11,8481,Life Hacks,4,9759,5,10,39,33,Afternoon,4,6,Habit,Tablet,MacOS,5:45 PM,6,4,At work,Mobile Data
+612,44,Male,Brazil,28556,FALSE,FALSE,driver,Rural,Facebook,55,11,8481,Life Hacks,4,9759,5,10,39,33,Afternoon,4,6,Habit,Tablet,MacOS,5:45 PM,6,4,At work,Mobile Data
 613,19,Other,Germany,25498,FALSE,TRUE,Waiting staff,Rural,TikTok,53,3,6344,Pranks,17,6412,2,1,39,52,Morning,7,3,Entertainment,Smartphone,Android,9:55 AM,9,1,At school,Wi-Fi
 614,22,Male,Vietnam,96118,TRUE,TRUE,Labor/Worker,Rural,YouTube,287,10,528,Trends,24,8605,9,6,9,41,Afternoon,4,6,Entertainment,Smartphone,iOS,5:45 PM,6,4,At work,Wi-Fi
 615,46,Male,Indonesia,70098,TRUE,TRUE,driver,Rural,TikTok,190,10,917,Trends,21,4120,2,3,45,23,Afternoon,4,6,Entertainment,Smartphone,Android,5:45 PM,6,4,At home,Mobile Data
-616,54,Male,Barzil,84386,TRUE,TRUE,driver,Rural,Facebook,196,14,9901,Gaming,2,8507,7,19,14,5,Evening,5,5,Procrastination,Smartphone,Android,4:25 PM,7,3,At home,Wi-Fi
+616,54,Male,Brazil,84386,TRUE,TRUE,driver,Rural,Facebook,196,14,9901,Gaming,2,8507,7,19,14,5,Evening,5,5,Procrastination,Smartphone,Android,4:25 PM,7,3,At home,Wi-Fi
 617,55,Male,United States,29569,FALSE,FALSE,Students,Urban,TikTok,123,12,3575,Entertainment,12,4666,8,4,48,71,Night,1,9,Procrastination,Smartphone,Android,10:15 PM,3,7,At school,Mobile Data
 618,36,Female,Philippines,76882,TRUE,TRUE,Labor/Worker,Rural,Facebook,264,15,3320,Vlogs,1,4820,6,29,9,57,Evening,5,5,Habit,Smartphone,Android,4:25 PM,7,3,At work,Mobile Data
 619,25,Other,Indonesia,90393,TRUE,FALSE,Manager,Urban,Facebook,39,10,1407,Entertainment,12,7835,7,20,15,6,Evening,5,5,Habit,Smartphone,Android,4:25 PM,7,3,At home,Wi-Fi
 620,62,Male,United States,20340,FALSE,TRUE,Waiting staff,Urban,TikTok,273,10,1242,Comedy,12,1849,1,23,37,49,Night,1,9,Entertainment,Tablet,Android,10:15 PM,3,7,At home,Wi-Fi
-621,18,Female,Barzil,63949,TRUE,FALSE,Waiting staff,Rural,Instagram,107,19,5207,Vlogs,12,1953,4,3,20,22,Evening,5,5,Entertainment,Computer,Windows,4:25 PM,7,3,At work,Wi-Fi
+621,18,Female,Brazil,63949,TRUE,FALSE,Waiting staff,Rural,Instagram,107,19,5207,Vlogs,12,1953,4,3,20,22,Evening,5,5,Entertainment,Computer,Windows,4:25 PM,7,3,At work,Wi-Fi
 622,39,Male,India,82443,TRUE,TRUE,Labor/Worker,Rural,YouTube,124,1,7250,Gaming,19,8580,7,8,8,77,Night,1,9,Habit,Smartphone,Android,10:15 PM,3,7,At home,Mobile Data
 623,34,Male,Germany,94027,TRUE,FALSE,Labor/Worker,Rural,Instagram,285,10,3134,Vlogs,25,2769,1,8,32,76,Evening,5,5,Entertainment,Smartphone,MacOS,4:25 PM,7,3,At school,Mobile Data
 624,24,Male,United States,20138,FALSE,TRUE,Labor/Worker,Rural,Instagram,290,2,799,Jokes/Memes,17,3046,1,27,47,4,Afternoon,4,6,Boredom,Smartphone,Windows,5:45 PM,6,4,At home,Mobile Data
@@ -627,10 +627,10 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 626,62,Female,Indonesia,95250,TRUE,TRUE,Waiting staff,Urban,YouTube,270,7,7210,Trends,24,6840,4,7,41,64,Night,1,9,Boredom,Tablet,iOS,10:15 PM,3,7,At school,Mobile Data
 627,21,Male,United States,50654,TRUE,FALSE,Waiting staff,Rural,YouTube,216,7,4929,Trends,24,5066,3,2,19,37,Evening,5,5,Procrastination,Tablet,MacOS,4:25 PM,7,3,At work,Mobile Data
 628,53,Male,Pakistan,45879,FALSE,TRUE,Students,Rural,Instagram,220,9,2889,Vlogs,26,2415,5,21,29,31,Afternoon,4,6,Boredom,Smartphone,Windows,5:45 PM,6,4,At home,Mobile Data
-629,23,Male,Barzil,75778,TRUE,FALSE,Artist,Rural,TikTok,224,2,2691,ASMR,28,2389,9,6,31,37,Evening,5,5,Entertainment,Tablet,iOS,4:25 PM,7,3,At home,Wi-Fi
+629,23,Male,Brazil,75778,TRUE,FALSE,Artist,Rural,TikTok,224,2,2691,ASMR,28,2389,9,6,31,37,Evening,5,5,Entertainment,Tablet,iOS,4:25 PM,7,3,At home,Wi-Fi
 630,48,Male,Pakistan,57772,TRUE,TRUE,Students,Rural,YouTube,49,14,4092,Pranks,11,5924,3,28,6,45,Afternoon,4,6,Habit,Smartphone,iOS,5:45 PM,6,4,At home,Wi-Fi
 631,36,Female,Mexico,78478,TRUE,FALSE,Labor/Worker,Rural,Instagram,35,17,7283,Entertainment,13,8495,5,16,4,90,Morning,7,3,Boredom,Computer,iOS,9:55 AM,9,1,At home,Mobile Data
-632,61,Female,Barzil,84353,TRUE,TRUE,Engineer,Urban,YouTube,36,1,9434,Jokes/Memes,27,763,5,10,43,8,Evening,5,5,Boredom,Smartphone,Android,4:25 PM,7,3,At home,Mobile Data
+632,61,Female,Brazil,84353,TRUE,TRUE,Engineer,Urban,YouTube,36,1,9434,Jokes/Memes,27,763,5,10,43,8,Evening,5,5,Boredom,Smartphone,Android,4:25 PM,7,3,At home,Mobile Data
 633,56,Female,United States,46762,FALSE,FALSE,Artist,Rural,TikTok,199,9,6250,Entertainment,8,7541,9,4,29,40,Morning,7,3,Entertainment,Smartphone,Android,9:55 AM,9,1,At home,Mobile Data
 634,44,Male,India,33283,FALSE,TRUE,Labor/Worker,Urban,TikTok,92,19,691,Gaming,10,815,4,13,42,97,Afternoon,4,6,Habit,Smartphone,Android,5:45 PM,6,4,At school,Mobile Data
 635,27,Male,Philippines,83922,TRUE,TRUE,Labor/Worker,Rural,TikTok,179,4,8720,Jokes/Memes,8,6255,1,10,3,93,Afternoon,4,6,Entertainment,Smartphone,Android,5:45 PM,6,4,At home,Mobile Data
@@ -651,7 +651,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 650,30,Female,Germany,21140,FALSE,FALSE,Labor/Worker,Rural,Instagram,229,15,4513,Pranks,3,4826,6,26,29,51,Night,1,9,Habit,Tablet,Android,10:15 PM,3,7,At school,Mobile Data
 651,45,Male,United States,44842,FALSE,TRUE,Labor/Worker,Rural,TikTok,186,7,416,Life Hacks,23,3664,7,15,14,56,Night,1,9,Entertainment,Tablet,Android,10:15 PM,3,7,Commuting,Mobile Data
 652,42,Male,United States,46421,FALSE,FALSE,Cashier,Rural,YouTube,291,16,9664,Vlogs,14,497,6,11,35,73,Afternoon,4,6,Entertainment,Tablet,Android,5:45 PM,6,4,At work,Mobile Data
-653,50,Male,Barzil,21708,FALSE,TRUE,Artist,Rural,YouTube,142,5,4181,Vlogs,15,7641,6,11,28,10,Evening,5,5,Habit,Smartphone,Windows,4:25 PM,7,3,At home,Mobile Data
+653,50,Male,Brazil,21708,FALSE,TRUE,Artist,Rural,YouTube,142,5,4181,Vlogs,15,7641,6,11,28,10,Evening,5,5,Habit,Smartphone,Windows,4:25 PM,7,3,At home,Mobile Data
 654,55,Female,United States,23630,FALSE,FALSE,Waiting staff,Urban,TikTok,31,16,4263,Jokes/Memes,2,4643,2,28,30,61,Night,1,9,Boredom,Tablet,Android,10:15 PM,3,7,Commuting,Wi-Fi
 655,23,Male,Pakistan,39595,FALSE,TRUE,Students,Rural,Instagram,278,1,2516,Vlogs,29,5056,5,28,26,50,Night,1,9,Habit,Smartphone,Android,10:15 PM,3,7,At home,Mobile Data
 656,61,Other,United States,96021,TRUE,TRUE,Students,Rural,TikTok,170,19,9288,Pranks,19,131,3,25,7,47,Night,1,9,Boredom,Tablet,iOS,10:15 PM,3,7,At school,Mobile Data
@@ -689,7 +689,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 688,41,Male,United States,56304,TRUE,FALSE,Students,Rural,Instagram,108,3,8573,Gaming,25,1773,6,22,27,78,Night,1,9,Procrastination,Computer,Windows,10:15 PM,3,7,Commuting,Mobile Data
 689,45,Female,Vietnam,50386,TRUE,TRUE,Waiting staff,Rural,Instagram,287,5,3083,Pranks,20,5415,7,11,13,46,Evening,5,5,Procrastination,Smartphone,Android,4:25 PM,7,3,At home,Wi-Fi
 690,25,Female,Germany,75220,TRUE,FALSE,Students,Rural,Instagram,60,9,8008,ASMR,26,2558,1,19,36,38,Evening,5,5,Boredom,Smartphone,Android,4:25 PM,7,3,At home,Mobile Data
-691,45,Male,Barzil,89338,TRUE,TRUE,Students,Rural,Facebook,160,9,9785,Life Hacks,11,5907,9,17,27,61,Night,1,9,Procrastination,Smartphone,Android,10:15 PM,3,7,At home,Wi-Fi
+691,45,Male,Brazil,89338,TRUE,TRUE,Students,Rural,Facebook,160,9,9785,Life Hacks,11,5907,9,17,27,61,Night,1,9,Procrastination,Smartphone,Android,10:15 PM,3,7,At home,Wi-Fi
 692,53,Male,India,41083,FALSE,FALSE,Waiting staff,Urban,Facebook,113,7,4262,Pranks,22,5079,4,24,9,17,Morning,7,3,Boredom,Smartphone,Android,9:55 AM,9,1,At work,Wi-Fi
 693,43,Other,Mexico,38354,FALSE,TRUE,Students,Rural,Facebook,98,12,2390,Vlogs,21,9454,5,4,5,66,Night,1,9,Boredom,Computer,Android,10:15 PM,3,7,At home,Mobile Data
 694,25,Female,Germany,42190,FALSE,FALSE,Waiting staff,Rural,Instagram,150,9,3554,Jokes/Memes,1,6724,2,26,22,72,Afternoon,4,6,Entertainment,Smartphone,Android,5:45 PM,6,4,At home,Mobile Data
@@ -698,20 +698,20 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 697,54,Other,India,71971,TRUE,TRUE,Cashier,Urban,TikTok,192,9,545,Gaming,21,9210,3,14,30,7,Evening,5,5,Entertainment,Tablet,Android,4:25 PM,7,3,At home,Wi-Fi
 698,58,Male,India,61862,TRUE,TRUE,Artist,Rural,YouTube,260,17,3664,Vlogs,14,9981,9,27,21,16,Afternoon,4,6,Entertainment,Tablet,Android,5:45 PM,6,4,At work,Mobile Data
 699,53,Male,Vietnam,73410,TRUE,TRUE,Students,Rural,Instagram,18,1,2240,Life Hacks,9,3524,2,20,35,14,Evening,5,5,Boredom,Computer,MacOS,4:25 PM,7,3,Commuting,Mobile Data
-700,44,Female,Barzil,39503,FALSE,TRUE,Cashier,Rural,Facebook,88,19,3774,Gaming,17,3504,6,4,6,80,Evening,5,5,Boredom,Tablet,Android,4:25 PM,7,3,At school,Wi-Fi
+700,44,Female,Brazil,39503,FALSE,TRUE,Cashier,Rural,Facebook,88,19,3774,Gaming,17,3504,6,4,6,80,Evening,5,5,Boredom,Tablet,Android,4:25 PM,7,3,At school,Wi-Fi
 701,34,Female,Mexico,68456,TRUE,FALSE,Students,Urban,Instagram,61,6,2628,Vlogs,15,8998,4,28,28,25,Afternoon,4,6,Procrastination,Computer,iOS,5:45 PM,6,4,At home,Wi-Fi
 702,26,Male,Philippines,28016,FALSE,TRUE,Students,Urban,TikTok,278,5,6619,Life Hacks,21,5989,7,14,32,4,Night,1,9,Boredom,Smartphone,Windows,10:15 PM,3,7,At home,Wi-Fi
 703,50,Other,India,22384,FALSE,FALSE,Cashier,Rural,YouTube,235,2,6781,Jokes/Memes,7,2666,6,26,42,29,Evening,5,5,Entertainment,Computer,Android,4:25 PM,7,3,At home,Mobile Data
 704,37,Male,United States,82320,TRUE,TRUE,Students,Rural,YouTube,60,9,8016,Trends,27,8596,9,4,37,56,Night,1,9,Boredom,Computer,Android,10:15 PM,3,7,At school,Wi-Fi
 705,30,Male,Vietnam,35072,FALSE,FALSE,Students,Urban,Facebook,195,14,3131,Jokes/Memes,22,7140,9,6,25,6,Night,1,9,Habit,Smartphone,iOS,10:15 PM,3,7,At home,Wi-Fi
 706,45,Male,India,60510,TRUE,TRUE,driver,Rural,YouTube,43,4,97,Vlogs,22,8785,4,9,32,1,Evening,5,5,Habit,Tablet,MacOS,4:25 PM,7,3,At home,Mobile Data
-707,46,Male,Barzil,68933,TRUE,FALSE,Labor/Worker,Rural,YouTube,239,4,3859,Trends,12,6895,1,21,35,39,Evening,5,5,Habit,Smartphone,Android,4:25 PM,7,3,At school,Mobile Data
+707,46,Male,Brazil,68933,TRUE,FALSE,Labor/Worker,Rural,YouTube,239,4,3859,Trends,12,6895,1,21,35,39,Evening,5,5,Habit,Smartphone,Android,4:25 PM,7,3,At school,Mobile Data
 708,30,Female,United States,41826,FALSE,TRUE,Labor/Worker,Urban,Instagram,140,15,2709,Entertainment,23,4107,2,12,22,1,Evening,5,5,Habit,Smartphone,Android,4:25 PM,7,3,At home,Mobile Data
 709,63,Female,Mexico,88026,TRUE,FALSE,Labor/Worker,Rural,YouTube,129,8,5398,Pranks,6,3280,8,29,24,63,Night,1,9,Procrastination,Tablet,iOS,10:15 PM,3,7,At home,Wi-Fi
 710,52,Male,Philippines,45518,FALSE,TRUE,Artist,Rural,YouTube,256,4,6153,Life Hacks,21,2212,8,26,39,57,Night,1,9,Boredom,Smartphone,iOS,10:15 PM,3,7,At home,Wi-Fi
 711,23,Male,Mexico,44045,FALSE,FALSE,Waiting staff,Rural,YouTube,201,16,457,Entertainment,16,8078,2,8,30,67,Afternoon,4,6,Procrastination,Smartphone,Android,5:45 PM,6,4,At school,Wi-Fi
 712,35,Other,Japan,70876,TRUE,TRUE,Students,Rural,Facebook,219,4,5915,Life Hacks,26,9734,4,24,32,65,Evening,5,5,Entertainment,Tablet,iOS,4:25 PM,7,3,At home,Mobile Data
-713,22,Male,Barzil,71919,TRUE,FALSE,Waiting staff,Rural,Facebook,112,16,4369,Entertainment,5,7601,1,4,31,65,Evening,5,5,Habit,Smartphone,Android,4:25 PM,7,3,At work,Mobile Data
+713,22,Male,Brazil,71919,TRUE,FALSE,Waiting staff,Rural,Facebook,112,16,4369,Entertainment,5,7601,1,4,31,65,Evening,5,5,Habit,Smartphone,Android,4:25 PM,7,3,At work,Mobile Data
 714,64,Other,Germany,47103,FALSE,TRUE,Students,Rural,Instagram,142,12,4089,Vlogs,9,613,7,27,23,21,Night,1,9,Entertainment,Smartphone,Android,10:15 PM,3,7,At home,Mobile Data
 715,42,Female,India,56188,TRUE,FALSE,Artist,Rural,YouTube,148,16,9224,Entertainment,14,868,4,26,40,30,Morning,7,3,Boredom,Computer,Windows,9:55 AM,9,1,At school,Mobile Data
 716,19,Male,Philippines,25845,FALSE,TRUE,Labor/Worker,Rural,Facebook,130,19,8400,ASMR,8,811,8,25,33,96,Evening,5,5,Entertainment,Tablet,Windows,4:25 PM,7,3,At home,Mobile Data
@@ -729,7 +729,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 728,43,Female,Germany,78653,TRUE,FALSE,Students,Rural,YouTube,33,1,1160,Pranks,8,1469,8,9,33,81,Afternoon,4,6,Habit,Tablet,Android,5:00 PM,6,4,Commuting,Mobile Data
 729,42,Male,United States,76622,TRUE,TRUE,Waiting staff,Rural,Instagram,108,15,387,ASMR,23,2675,3,7,36,79,Afternoon,4,6,Habit,Computer,Android,5:00 PM,6,4,At home,Mobile Data
 730,39,Male,India,47810,FALSE,FALSE,Waiting staff,Rural,Instagram,148,4,7193,Trends,21,1513,7,8,28,74,Afternoon,4,6,Boredom,Smartphone,Android,5:00 PM,6,4,At work,Mobile Data
-731,44,Female,Barzil,97842,TRUE,TRUE,Engineer,Rural,TikTok,183,10,9911,Vlogs,10,4876,3,15,16,99,Evening,5,5,Boredom,Smartphone,Android,2:00 PM,7,3,Commuting,Wi-Fi
+731,44,Female,Brazil,97842,TRUE,TRUE,Engineer,Rural,TikTok,183,10,9911,Vlogs,10,4876,3,15,16,99,Evening,5,5,Boredom,Smartphone,Android,2:00 PM,7,3,Commuting,Wi-Fi
 732,30,Other,India,30503,FALSE,FALSE,driver,Rural,YouTube,38,9,4776,Pranks,3,1451,8,19,16,52,Evening,5,5,Entertainment,Tablet,Android,2:00 PM,7,3,At school,Mobile Data
 733,50,Male,Vietnam,56976,TRUE,TRUE,Waiting staff,Rural,Instagram,152,2,3410,Comedy,21,4654,1,15,18,93,Morning,7,3,Habit,Smartphone,MacOS,8:00 AM,9,1,At home,Mobile Data
 734,51,Female,India,31590,FALSE,FALSE,Waiting staff,Rural,Instagram,51,14,690,Trends,3,3007,1,5,8,76,Night,1,9,Entertainment,Smartphone,Android,9:00 PM,3,7,At home,Mobile Data
@@ -757,7 +757,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 756,26,Male,Japan,21381,FALSE,TRUE,Waiting staff,Rural,TikTok,53,10,9989,Vlogs,6,4316,5,26,10,73,Morning,6,4,Boredom,Smartphone,iOS,8:00 AM,8,2,At home,Mobile Data
 757,63,Female,Japan,86634,TRUE,FALSE,driver,Rural,Facebook,37,3,6313,Vlogs,12,9379,5,29,36,75,Afternoon,3,7,Procrastination,Computer,Android,5:00 PM,5,5,At work,Mobile Data
 758,18,Female,Pakistan,39810,FALSE,TRUE,Waiting staff,Urban,TikTok,26,17,7939,Gaming,7,9695,7,22,25,87,Evening,8,2,Boredom,Smartphone,Android,2:00 PM,10,0,At home,Mobile Data
-759,62,Female,Barzil,44322,FALSE,FALSE,Teacher,Urban,TikTok,136,15,9955,Vlogs,18,5803,5,18,10,51,Morning,8,2,Entertainment,Smartphone,Android,8:00 AM,10,0,Commuting,Mobile Data
+759,62,Female,Brazil,44322,FALSE,FALSE,Teacher,Urban,TikTok,136,15,9955,Vlogs,18,5803,5,18,10,51,Morning,8,2,Entertainment,Smartphone,Android,8:00 AM,10,0,Commuting,Mobile Data
 760,30,Other,India,61869,TRUE,TRUE,Labor/Worker,Urban,Instagram,177,9,6177,Gaming,22,3325,7,25,19,2,Evening,6,4,Boredom,Smartphone,Android,2:00 PM,8,2,At school,Mobile Data
 761,21,Female,Pakistan,52955,TRUE,TRUE,Students,Rural,YouTube,253,10,3286,Comedy,14,8379,9,15,46,15,Night,8,2,Habit,Tablet,iOS,9:00 PM,10,0,At home,Wi-Fi
 762,18,Male,United States,81388,TRUE,TRUE,Students,Rural,YouTube,85,8,9778,Entertainment,8,1214,5,7,45,35,Evening,3,7,Procrastination,Computer,Android,2:00 PM,5,5,At home,Wi-Fi
@@ -776,7 +776,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 775,61,Other,India,30350,FALSE,TRUE,Students,Rural,Facebook,170,4,7365,Jokes/Memes,16,6569,8,20,44,67,Afternoon,8,2,Entertainment,Smartphone,Android,5:00 PM,10,0,At school,Mobile Data
 776,22,Male,Mexico,88487,TRUE,FALSE,Labor/Worker,Urban,YouTube,103,3,1678,Life Hacks,7,1491,1,17,31,90,Evening,8,2,Entertainment,Smartphone,MacOS,2:00 PM,10,0,At work,Mobile Data
 777,47,Male,India,37622,FALSE,TRUE,Students,Urban,YouTube,183,9,3095,Jokes/Memes,27,5213,6,28,21,15,Night,9,1,Habit,Tablet,Android,9:00 PM,10,0,At school,Wi-Fi
-778,47,Male,Barzil,90263,TRUE,FALSE,Labor/Worker,Rural,Facebook,174,12,9191,Gaming,14,4228,9,3,41,17,Night,3,7,Procrastination,Smartphone,Android,9:00 PM,5,5,At work,Mobile Data
+778,47,Male,Brazil,90263,TRUE,FALSE,Labor/Worker,Rural,Facebook,174,12,9191,Gaming,14,4228,9,3,41,17,Night,3,7,Procrastination,Smartphone,Android,9:00 PM,5,5,At work,Mobile Data
 779,34,Male,Japan,73117,TRUE,TRUE,Waiting staff,Rural,TikTok,124,10,5874,Jokes/Memes,14,7508,8,21,46,91,Night,8,2,Entertainment,Tablet,Android,9:00 PM,10,0,At work,Wi-Fi
 780,64,Other,Japan,78394,TRUE,FALSE,Students,Rural,Facebook,229,2,2285,Pranks,12,4409,3,21,45,18,Evening,8,2,Entertainment,Smartphone,iOS,2:00 PM,10,0,At school,Mobile Data
 781,40,Female,Mexico,43782,FALSE,TRUE,Artist,Rural,TikTok,40,11,5053,Jokes/Memes,1,590,1,2,26,19,Afternoon,6,4,Habit,Smartphone,Android,5:00 PM,8,2,At work,Mobile Data
@@ -796,8 +796,8 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 795,32,Female,United States,21589,FALSE,FALSE,Labor/Worker,Rural,YouTube,157,15,8056,Comedy,6,7360,4,26,14,64,Evening,6,4,Entertainment,Smartphone,Android,2:00 PM,8,2,At school,Wi-Fi
 796,44,Female,India,45235,FALSE,TRUE,Students,Rural,Facebook,34,12,4219,Life Hacks,16,3770,4,12,17,41,Afternoon,6,4,Boredom,Smartphone,iOS,5:00 PM,8,2,At home,Mobile Data
 797,51,Other,Pakistan,20159,FALSE,FALSE,Students,Urban,YouTube,130,8,1869,Jokes/Memes,24,3342,2,12,3,96,Night,8,2,Boredom,Smartphone,Windows,9:00 PM,10,0,At home,Mobile Data
-798,55,Female,Barzil,32145,FALSE,TRUE,Waiting staff,Rural,YouTube,35,10,1672,Gaming,8,9088,7,22,34,68,Night,8,2,Habit,Smartphone,iOS,9:00 PM,10,0,At work,Mobile Data
-799,50,Male,Barzil,51921,TRUE,FALSE,Students,Rural,YouTube,178,14,9275,ASMR,23,1546,4,13,40,5,Morning,6,4,Procrastination,Smartphone,Android,8:00 AM,8,2,At home,Mobile Data
+798,55,Female,Brazil,32145,FALSE,TRUE,Waiting staff,Rural,YouTube,35,10,1672,Gaming,8,9088,7,22,34,68,Night,8,2,Habit,Smartphone,iOS,9:00 PM,10,0,At work,Mobile Data
+799,50,Male,Brazil,51921,TRUE,FALSE,Students,Rural,YouTube,178,14,9275,ASMR,23,1546,4,13,40,5,Morning,6,4,Procrastination,Smartphone,Android,8:00 AM,8,2,At home,Mobile Data
 800,41,Male,India,36237,FALSE,TRUE,driver,Rural,TikTok,234,5,1729,Life Hacks,22,3126,6,28,25,53,Evening,6,4,Boredom,Smartphone,Android,2:00 PM,8,2,At home,Mobile Data
 801,32,Male,Vietnam,28244,FALSE,FALSE,Manager,Rural,Facebook,10,18,7633,Jokes/Memes,6,5889,3,14,2,8,Afternoon,8,2,Habit,Tablet,MacOS,5:00 PM,10,0,At work,Mobile Data
 802,47,Male,Japan,34743,FALSE,TRUE,Students,Urban,Facebook,270,19,6404,Life Hacks,10,6208,7,22,34,22,Evening,8,2,Boredom,Smartphone,Android,2:00 PM,10,0,At work,Wi-Fi
@@ -807,8 +807,8 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 806,46,Male,United States,76071,TRUE,FALSE,Students,Rural,Facebook,270,11,6185,ASMR,29,942,5,27,30,30,Evening,3,7,Boredom,Smartphone,iOS,2:00 PM,5,5,At home,Mobile Data
 807,21,Female,Mexico,91121,TRUE,TRUE,Engineer,Rural,TikTok,287,18,6011,Jokes/Memes,6,3280,9,6,20,16,Afternoon,8,2,Entertainment,Tablet,Android,5:00 PM,10,0,Commuting,Mobile Data
 808,27,Other,Mexico,94763,TRUE,FALSE,Labor/Worker,Rural,YouTube,214,18,254,Pranks,24,1033,6,27,21,79,Evening,3,7,Procrastination,Computer,Android,2:00 PM,5,5,At home,Mobile Data
-809,34,Male,Barzil,32237,FALSE,TRUE,Artist,Rural,TikTok,194,10,4103,Life Hacks,1,2786,4,10,29,5,Evening,3,7,Procrastination,Computer,iOS,2:00 PM,5,5,At work,Mobile Data
-810,27,Male,Barzil,35649,FALSE,FALSE,Labor/Worker,Urban,Instagram,184,2,3543,Gaming,21,2233,7,20,25,67,Evening,3,7,Boredom,Smartphone,iOS,2:00 PM,5,5,At school,Mobile Data
+809,34,Male,Brazil,32237,FALSE,TRUE,Artist,Rural,TikTok,194,10,4103,Life Hacks,1,2786,4,10,29,5,Evening,3,7,Procrastination,Computer,iOS,2:00 PM,5,5,At work,Mobile Data
+810,27,Male,Brazil,35649,FALSE,FALSE,Labor/Worker,Urban,Instagram,184,2,3543,Gaming,21,2233,7,20,25,67,Evening,3,7,Boredom,Smartphone,iOS,2:00 PM,5,5,At school,Mobile Data
 811,34,Male,Vietnam,57713,TRUE,TRUE,Manager,Rural,YouTube,78,9,2776,Pranks,19,1620,2,29,38,23,Evening,3,7,Entertainment,Tablet,iOS,2:00 PM,5,5,At work,Mobile Data
 812,37,Male,Germany,93463,TRUE,FALSE,Waiting staff,Rural,YouTube,113,14,7679,Pranks,12,3535,4,24,44,61,Evening,6,4,Boredom,Smartphone,Android,2:00 PM,8,2,At work,Mobile Data
 813,41,Male,Indonesia,65409,TRUE,TRUE,Labor/Worker,Rural,Facebook,255,19,6213,Gaming,24,3205,5,9,25,74,Night,8,2,Entertainment,Smartphone,Android,9:00 PM,10,0,At school,Wi-Fi
@@ -827,7 +827,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 826,28,Male,Germany,42736,FALSE,TRUE,Students,Rural,Facebook,146,6,154,Vlogs,20,5228,2,13,23,96,Night,3,7,Boredom,Smartphone,Android,9:00 PM,5,5,Commuting,Mobile Data
 827,33,Other,India,47990,FALSE,FALSE,Waiting staff,Urban,Instagram,187,11,3594,ASMR,13,4169,8,29,39,72,Evening,3,7,Habit,Tablet,Android,2:00 PM,5,5,At home,Mobile Data
 828,25,Other,India,82551,TRUE,TRUE,Engineer,Urban,TikTok,86,16,8607,Pranks,2,6721,8,1,29,68,Evening,3,7,Boredom,Smartphone,iOS,2:00 PM,5,5,At school,Mobile Data
-829,21,Male,Barzil,78161,TRUE,FALSE,Labor/Worker,Rural,YouTube,197,8,1285,Pranks,4,679,7,5,31,64,Night,8,2,Boredom,Smartphone,Android,9:00 PM,10,0,At school,Mobile Data
+829,21,Male,Brazil,78161,TRUE,FALSE,Labor/Worker,Rural,YouTube,197,8,1285,Pranks,4,679,7,5,31,64,Night,8,2,Boredom,Smartphone,Android,9:00 PM,10,0,At school,Mobile Data
 830,57,Other,Mexico,99623,TRUE,TRUE,Labor/Worker,Urban,Instagram,24,11,3149,Vlogs,29,7429,9,18,19,94,Afternoon,9,1,Habit,Smartphone,MacOS,5:00 PM,10,0,At school,Mobile Data
 831,21,Female,Vietnam,42440,FALSE,FALSE,Waiting staff,Rural,Facebook,223,7,769,Jokes/Memes,25,5487,8,16,20,19,Afternoon,8,2,Procrastination,Smartphone,Android,5:00 PM,10,0,At home,Mobile Data
 832,42,Female,Philippines,55205,TRUE,TRUE,Students,Urban,Facebook,217,19,9175,Vlogs,2,236,9,26,23,87,Night,6,4,Habit,Smartphone,Android,9:00 PM,8,2,Commuting,Mobile Data
@@ -840,9 +840,9 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 839,36,Other,India,73384,TRUE,FALSE,Students,Rural,TikTok,69,2,6339,Life Hacks,25,3132,9,2,49,47,Night,3,7,Habit,Tablet,Android,9:00 PM,5,5,At school,Mobile Data
 840,38,Male,Indonesia,25793,FALSE,TRUE,Teacher,Rural,YouTube,25,16,8734,Pranks,21,7080,2,24,7,82,Evening,8,2,Habit,Tablet,iOS,2:00 PM,10,0,At home,Mobile Data
 841,22,Male,India,25571,FALSE,FALSE,Manager,Urban,TikTok,236,9,359,Jokes/Memes,10,4942,6,17,22,54,Evening,3,7,Boredom,Tablet,iOS,2:00 PM,5,5,Commuting,Wi-Fi
-842,35,Female,Barzil,36209,FALSE,TRUE,Students,Rural,TikTok,38,13,850,Jokes/Memes,5,6961,6,7,10,44,Morning,3,7,Entertainment,Smartphone,Windows,8:00 AM,5,5,At home,Mobile Data
+842,35,Female,Brazil,36209,FALSE,TRUE,Students,Rural,TikTok,38,13,850,Jokes/Memes,5,6961,6,7,10,44,Morning,3,7,Entertainment,Smartphone,Windows,8:00 AM,5,5,At home,Mobile Data
 843,45,Male,Philippines,63148,TRUE,FALSE,Waiting staff,Rural,Facebook,160,3,7499,Trends,17,7730,9,17,23,97,Afternoon,8,2,Entertainment,Tablet,Windows,5:00 PM,10,0,At school,Mobile Data
-844,59,Male,Barzil,22224,FALSE,TRUE,Students,Rural,TikTok,254,9,4523,Life Hacks,22,633,9,28,15,7,Evening,3,7,Habit,Tablet,Windows,2:00 PM,5,5,At home,Mobile Data
+844,59,Male,Brazil,22224,FALSE,TRUE,Students,Rural,TikTok,254,9,4523,Life Hacks,22,633,9,28,15,7,Evening,3,7,Habit,Tablet,Windows,2:00 PM,5,5,At home,Mobile Data
 845,39,Male,Vietnam,68695,TRUE,TRUE,Engineer,Urban,Instagram,279,13,2545,Pranks,13,6822,5,6,30,92,Night,3,7,Habit,Tablet,Android,9:00 PM,5,5,At school,Wi-Fi
 846,38,Male,Japan,52441,TRUE,TRUE,Students,Rural,YouTube,88,2,1832,Jokes/Memes,23,4103,5,29,34,1,Evening,8,2,Entertainment,Smartphone,MacOS,2:00 PM,10,0,At work,Wi-Fi
 847,23,Female,United States,59129,TRUE,TRUE,Waiting staff,Rural,Facebook,298,8,1473,Entertainment,17,9584,9,22,13,63,Evening,8,2,Entertainment,Smartphone,Android,2:00 PM,10,0,At home,Mobile Data
@@ -864,7 +864,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 863,64,Male,Japan,86852,TRUE,TRUE,Labor/Worker,Rural,Instagram,27,14,4577,Gaming,26,1138,3,12,33,92,Night,6,4,Entertainment,Smartphone,MacOS,9:00 PM,8,2,At school,Mobile Data
 864,47,Female,Pakistan,65968,TRUE,FALSE,Students,Urban,Facebook,82,6,1101,Entertainment,8,5807,3,19,2,41,Afternoon,8,2,Entertainment,Smartphone,iOS,5:00 PM,10,0,At school,Mobile Data
 865,60,Male,United States,37508,FALSE,TRUE,Students,Rural,Facebook,198,12,8865,Vlogs,14,3192,6,2,34,12,Evening,8,2,Procrastination,Computer,iOS,2:00 PM,10,0,At school,Mobile Data
-866,34,Other,Barzil,42005,FALSE,TRUE,Students,Rural,TikTok,26,13,8709,Vlogs,22,6116,1,26,29,73,Evening,3,7,Entertainment,Smartphone,iOS,2:00 PM,5,5,At home,Wi-Fi
+866,34,Other,Brazil,42005,FALSE,TRUE,Students,Rural,TikTok,26,13,8709,Vlogs,22,6116,1,26,29,73,Evening,3,7,Entertainment,Smartphone,iOS,2:00 PM,5,5,At home,Wi-Fi
 867,43,Other,Germany,74575,TRUE,TRUE,Students,Rural,Facebook,28,17,2533,Trends,28,3759,6,2,37,11,Night,3,7,Boredom,Tablet,Android,9:00 PM,5,5,At school,Wi-Fi
 868,53,Other,Germany,38971,FALSE,TRUE,Waiting staff,Rural,Instagram,228,16,7771,Entertainment,14,3029,3,14,4,97,Evening,6,4,Entertainment,Computer,Android,2:00 PM,8,2,At work,Mobile Data
 869,18,Female,India,45599,FALSE,FALSE,Waiting staff,Rural,YouTube,129,3,3671,Trends,11,9552,4,15,12,19,Night,6,4,Procrastination,Tablet,Android,9:00 PM,8,2,At home,Wi-Fi
@@ -887,7 +887,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 886,20,Other,United States,47747,FALSE,TRUE,Waiting staff,Rural,TikTok,30,3,7386,Life Hacks,11,9232,3,23,21,20,Afternoon,3,7,Procrastination,Smartphone,Android,5:00 PM,5,5,At school,Mobile Data
 887,64,Female,Germany,96396,TRUE,TRUE,Waiting staff,Urban,YouTube,187,12,6082,ASMR,26,6439,2,22,21,20,Morning,8,2,Boredom,Smartphone,Android,8:00 AM,10,0,At work,Mobile Data
 888,40,Other,India,77505,TRUE,TRUE,Teacher,Rural,TikTok,237,17,5485,Jokes/Memes,27,961,6,4,18,9,Evening,6,4,Entertainment,Smartphone,Android,2:00 PM,8,2,At home,Mobile Data
-889,63,Female,Barzil,38135,FALSE,TRUE,Labor/Worker,Urban,TikTok,282,4,3773,Trends,11,6827,8,21,21,72,Evening,3,7,Entertainment,Smartphone,Android,2:00 PM,5,5,At work,Mobile Data
+889,63,Female,Brazil,38135,FALSE,TRUE,Labor/Worker,Urban,TikTok,282,4,3773,Trends,11,6827,8,21,21,72,Evening,3,7,Entertainment,Smartphone,Android,2:00 PM,5,5,At work,Mobile Data
 890,60,Other,Indonesia,67377,TRUE,FALSE,Artist,Rural,YouTube,297,17,3917,Comedy,27,1217,7,8,19,15,Afternoon,6,4,Habit,Tablet,MacOS,5:00 PM,8,2,At work,Mobile Data
 891,64,Female,Mexico,43554,FALSE,TRUE,Waiting staff,Rural,TikTok,143,14,4019,Jokes/Memes,15,8566,1,3,4,98,Afternoon,3,7,Boredom,Tablet,Android,5:00 PM,5,5,At home,Wi-Fi
 892,62,Female,India,82491,TRUE,FALSE,Labor/Worker,Rural,Facebook,292,19,1330,Pranks,10,6007,4,2,13,88,Night,3,7,Habit,Smartphone,Android,9:00 PM,5,5,At home,Mobile Data
@@ -907,7 +907,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 906,61,Female,United States,75860,TRUE,FALSE,Students,Rural,YouTube,130,15,5956,Gaming,24,9666,9,3,21,35,Morning,3,7,Habit,Smartphone,Windows,8:00 AM,5,5,At home,Mobile Data
 907,42,Female,Indonesia,82507,TRUE,TRUE,Engineer,Rural,Instagram,191,12,1161,Trends,6,1059,1,15,22,70,Night,3,7,Habit,Smartphone,iOS,9:00 PM,5,5,At school,Mobile Data
 908,34,Female,Mexico,77134,TRUE,TRUE,Engineer,Rural,Facebook,208,16,5978,ASMR,6,1922,9,19,15,97,Afternoon,8,2,Habit,Smartphone,Android,5:00 PM,10,0,At home,Wi-Fi
-909,30,Female,Barzil,22100,FALSE,TRUE,Labor/Worker,Rural,Facebook,264,16,7042,Vlogs,12,6101,7,24,39,21,Morning,3,7,Habit,Tablet,Android,8:00 AM,5,5,At school,Mobile Data
+909,30,Female,Brazil,22100,FALSE,TRUE,Labor/Worker,Rural,Facebook,264,16,7042,Vlogs,12,6101,7,24,39,21,Morning,3,7,Habit,Tablet,Android,8:00 AM,5,5,At school,Mobile Data
 910,37,Other,United States,81997,TRUE,TRUE,Artist,Urban,Instagram,131,4,2384,Jokes/Memes,25,4592,1,20,48,80,Afternoon,8,2,Entertainment,Smartphone,Windows,5:00 PM,10,0,At home,Mobile Data
 911,42,Female,Pakistan,48172,FALSE,FALSE,Waiting staff,Rural,Instagram,40,11,5877,Life Hacks,15,6349,1,14,39,39,Evening,9,1,Boredom,Tablet,Android,2:00 PM,10,0,At home,Mobile Data
 912,21,Other,Indonesia,40132,FALSE,TRUE,Artist,Rural,YouTube,294,13,3541,Jokes/Memes,4,2473,5,8,32,34,Night,8,2,Habit,Smartphone,Android,9:00 PM,10,0,At work,Mobile Data
@@ -917,15 +917,15 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 916,62,Female,Philippines,28016,FALSE,TRUE,Labor/Worker,Rural,TikTok,241,9,8216,Trends,27,4549,8,14,45,88,Evening,8,2,Entertainment,Computer,iOS,2:00 PM,10,0,At home,Wi-Fi
 917,35,Other,United States,59779,TRUE,FALSE,Waiting staff,Urban,YouTube,265,13,1080,Vlogs,24,594,6,16,32,56,Night,8,2,Habit,Smartphone,Android,9:00 PM,10,0,At school,Mobile Data
 918,64,Female,India,51881,TRUE,TRUE,Waiting staff,Urban,YouTube,33,16,8371,Trends,12,5452,6,20,4,49,Evening,8,2,Entertainment,Smartphone,Windows,2:00 PM,10,0,Commuting,Mobile Data
-919,53,Other,Barzil,44472,FALSE,FALSE,Students,Rural,Facebook,118,6,2848,Entertainment,7,506,4,24,1,92,Evening,3,7,Boredom,Tablet,Android,2:00 PM,5,5,At work,Mobile Data
-920,64,Female,Barzil,71813,TRUE,TRUE,Labor/Worker,Rural,TikTok,200,10,1961,Life Hacks,20,4889,5,6,33,1,Evening,8,2,Habit,Tablet,Windows,2:00 PM,10,0,At school,Wi-Fi
+919,53,Other,Brazil,44472,FALSE,FALSE,Students,Rural,Facebook,118,6,2848,Entertainment,7,506,4,24,1,92,Evening,3,7,Boredom,Tablet,Android,2:00 PM,5,5,At work,Mobile Data
+920,64,Female,Brazil,71813,TRUE,TRUE,Labor/Worker,Rural,TikTok,200,10,1961,Life Hacks,20,4889,5,6,33,1,Evening,8,2,Habit,Tablet,Windows,2:00 PM,10,0,At school,Wi-Fi
 921,39,Male,United States,56021,TRUE,FALSE,Labor/Worker,Urban,YouTube,34,13,1474,Life Hacks,9,7637,2,23,7,65,Night,6,4,Habit,Smartphone,Android,10:15 PM,8,2,At home,Wi-Fi
 922,51,Male,Philippines,74131,TRUE,TRUE,Waiting staff,Rural,TikTok,196,7,4889,Pranks,9,8212,3,25,9,28,Afternoon,9,1,Boredom,Tablet,iOS,5:45 PM,10,0,At home,Mobile Data
 923,64,Female,India,44087,FALSE,FALSE,Students,Rural,TikTok,297,19,4980,Jokes/Memes,8,1399,3,6,1,20,Evening,9,1,Entertainment,Smartphone,MacOS,4:25 PM,10,0,At home,Wi-Fi
 924,25,Female,Mexico,32828,FALSE,TRUE,Waiting staff,Rural,TikTok,125,19,1213,Jokes/Memes,14,3201,5,3,16,48,Evening,9,1,Habit,Computer,Windows,4:25 PM,10,0,At home,Mobile Data
 925,57,Other,United States,81610,TRUE,FALSE,driver,Rural,Instagram,46,17,5698,Pranks,1,7854,5,15,18,72,Night,8,2,Entertainment,Smartphone,Android,10:15 PM,10,0,At home,Mobile Data
 926,61,Male,Pakistan,21401,FALSE,TRUE,Artist,Rural,Instagram,291,13,9002,Entertainment,23,6763,6,29,47,65,Evening,8,2,Habit,Smartphone,Android,4:25 PM,10,0,At work,Wi-Fi
-927,36,Female,Barzil,35193,FALSE,FALSE,Labor/Worker,Rural,Instagram,146,13,420,Jokes/Memes,21,7962,5,3,6,90,Afternoon,8,2,Entertainment,Computer,Android,5:45 PM,10,0,At home,Wi-Fi
+927,36,Female,Brazil,35193,FALSE,FALSE,Labor/Worker,Rural,Instagram,146,13,420,Jokes/Memes,21,7962,5,3,6,90,Afternoon,8,2,Entertainment,Computer,Android,5:45 PM,10,0,At home,Wi-Fi
 928,59,Other,United States,64864,TRUE,TRUE,Waiting staff,Rural,Instagram,236,2,3660,Trends,23,5190,6,11,2,51,Evening,6,4,Procrastination,Computer,iOS,4:25 PM,8,2,At home,Mobile Data
 929,58,Female,United States,40307,FALSE,TRUE,Teacher,Rural,Facebook,191,10,5284,Life Hacks,12,5681,8,3,9,43,Evening,8,2,Entertainment,Smartphone,iOS,4:25 PM,10,0,At school,Mobile Data
 930,54,Female,Mexico,39611,FALSE,TRUE,Waiting staff,Rural,YouTube,95,13,9471,Life Hacks,25,3678,2,28,4,49,Night,8,2,Entertainment,Smartphone,iOS,10:15 PM,10,0,At work,Wi-Fi
@@ -949,9 +949,9 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 948,26,Other,India,75350,TRUE,FALSE,Labor/Worker,Rural,YouTube,175,16,8495,Life Hacks,2,7501,5,25,16,59,Afternoon,8,2,Boredom,Smartphone,Android,5:45 PM,10,0,At home,Mobile Data
 949,20,Male,Philippines,89561,TRUE,TRUE,Manager,Rural,TikTok,288,14,4183,Gaming,23,4098,7,16,15,36,Evening,8,2,Boredom,Smartphone,Android,4:25 PM,10,0,At school,Mobile Data
 950,48,Male,United States,71955,TRUE,TRUE,Cashier,Rural,TikTok,68,16,6974,Life Hacks,8,2738,9,13,42,79,Evening,3,7,Entertainment,Smartphone,iOS,4:25 PM,5,5,At home,Wi-Fi
-951,57,Male,Barzil,81240,TRUE,TRUE,Artist,Rural,TikTok,99,17,438,Pranks,24,7619,6,5,46,19,Night,8,2,Boredom,Tablet,MacOS,10:15 PM,10,0,At work,Mobile Data
+951,57,Male,Brazil,81240,TRUE,TRUE,Artist,Rural,TikTok,99,17,438,Pranks,24,7619,6,5,46,19,Night,8,2,Boredom,Tablet,MacOS,10:15 PM,10,0,At work,Mobile Data
 952,54,Male,India,40093,FALSE,TRUE,driver,Rural,TikTok,203,11,833,Pranks,14,1842,3,24,34,42,Night,9,1,Habit,Smartphone,iOS,10:15 PM,10,0,At home,Wi-Fi
-953,53,Female,Barzil,26155,FALSE,FALSE,driver,Urban,Facebook,132,17,8989,Trends,6,8938,7,4,48,69,Evening,3,7,Boredom,Tablet,Windows,4:25 PM,5,5,At school,Mobile Data
+953,53,Female,Brazil,26155,FALSE,FALSE,driver,Urban,Facebook,132,17,8989,Trends,6,8938,7,4,48,69,Evening,3,7,Boredom,Tablet,Windows,4:25 PM,5,5,At school,Mobile Data
 954,41,Female,India,66607,TRUE,TRUE,driver,Rural,Instagram,145,19,8752,Comedy,10,2816,4,21,19,19,Night,3,7,Boredom,Smartphone,iOS,10:15 PM,5,5,At work,Mobile Data
 955,48,Male,India,53487,TRUE,FALSE,Teacher,Rural,Instagram,148,1,8954,Entertainment,8,9063,3,15,8,39,Evening,3,7,Habit,Smartphone,iOS,4:25 PM,5,5,At work,Wi-Fi
 956,23,Male,United States,75668,TRUE,TRUE,Cashier,Rural,Facebook,238,12,5795,Vlogs,17,494,7,12,47,69,Evening,8,2,Entertainment,Smartphone,Android,4:25 PM,10,0,At home,Mobile Data
@@ -973,7 +973,7 @@ UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Pla
 972,61,Other,Indonesia,22204,FALSE,TRUE,Artist,Rural,YouTube,158,2,1710,Entertainment,11,8831,6,22,44,61,Evening,3,7,Boredom,Computer,MacOS,4:25 PM,5,5,At work,Mobile Data
 973,22,Female,Vietnam,51131,TRUE,TRUE,driver,Rural,TikTok,197,1,5783,Jokes/Memes,17,2663,2,2,33,57,Night,8,2,Entertainment,Smartphone,iOS,10:15 PM,10,0,At home,Mobile Data
 974,23,Female,Germany,72428,TRUE,FALSE,Teacher,Urban,Facebook,160,8,1235,Jokes/Memes,26,2745,6,24,20,93,Night,6,4,Habit,Smartphone,Android,10:15 PM,8,2,At school,Mobile Data
-975,43,Female,Barzil,53870,TRUE,TRUE,Students,Rural,Instagram,150,14,8494,Vlogs,23,5004,2,11,48,5,Night,6,4,Boredom,Smartphone,iOS,10:15 PM,8,2,At school,Wi-Fi
+975,43,Female,Brazil,53870,TRUE,TRUE,Students,Rural,Instagram,150,14,8494,Vlogs,23,5004,2,11,48,5,Night,6,4,Boredom,Smartphone,iOS,10:15 PM,8,2,At school,Wi-Fi
 976,21,Male,Japan,69067,TRUE,FALSE,Engineer,Rural,YouTube,78,9,5206,ASMR,14,6321,8,3,30,89,Evening,8,2,Boredom,Smartphone,iOS,4:25 PM,10,0,At school,Mobile Data
 977,36,Male,Pakistan,78585,TRUE,TRUE,Students,Rural,Instagram,269,2,1421,Entertainment,6,5125,4,10,44,24,Evening,3,7,Habit,Smartphone,iOS,4:25 PM,5,5,At home,Mobile Data
 978,37,Male,United States,41607,FALSE,FALSE,driver,Rural,TikTok,18,5,769,Pranks,25,4948,5,6,9,93,Evening,3,7,Procrastination,Smartphone,Windows,4:25 PM,5,5,At home,Mobile Data

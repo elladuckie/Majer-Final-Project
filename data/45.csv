@@ -1,0 +1,483 @@
+Age,Gender,Religion,Education,Location,Programstudied,PersonalFinance,MaritalStatuts,Devices,Source,Disorder,ParentingStyle,MentalHealth,Backpain,Eyestrain,RExercise,SLDU,Stress,FBhours,FBA,FPS,FRS,FUS,FSS,FSTS,BFAD,INAD,FAD,Age_cat,MLP_PredictedValue,MLP_PseudoProbability_1,MLP_PseudoProbability_2,BFAD_CAT
+26,Male,Muslim,Freshmen,Independent University,Commerce,Sufficient,Living together,smart phone,3G/4G/GRPRS,Learning Deficiency(LD),Permissive,Abnormal,no,yes,yes,yes,yes,Only daytime,rarely,rarely,Ver rarely,Rarely,sometimes,often,12,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+27,Male,Muslim,Freshmen,North South University,Commerce,Sufficient,Living together,Tablets,WIFI,Attention Deficeit/Hyperactivity Disorder,Authorative,Normal,yes,No,yes,yes,yes,Only daytime,rarely,rarely,Sometimes,sometimes,sometimes,very rarely,13,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+25,Female,Muslim,Freshmen,Independent University,Science,Insufficient,Divorced,Notepad/Laptop,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Normal,no,No,yes,yes,yes,All day,sometimes,sometimes,Rarely,sometimes,very rarely,very rarely,14,Normal use,Normal Use,23-30,Female,.467755731155667,.532244268844333,Facebook Addicted ( Scale of 11-20)
+27,Male,Muslim,Junior/ Senior,Independent University,Arts,Insufficient,Divorced,Notepad/Laptop,3G/4G/GRPRS,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,yes,yes,yes,Only daytime,very rarely,very rarely,Ver rarely,sometimes,sometimes,Sometimes,15,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+28,Female,Muslim,Junior/ Senior,Independent University,Commerce,Sufficient,Widowed,Tablets,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,veryoften,very often,very often,very often,very often,very often,30,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Problematic User (Scale of 21-30)
+29,Female,Muslim,Freshmen,Independent University,Commerce,Sufficient,Divorced,smart phone,3G/4G/GRPRS,Attention Deficeit/Hyperactivity Disorder,Authorative,Normal,yes,No,yes,yes,yes,Only daytime,rarely,rarely,Rarely,often,sometimes,very often,15,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+29,Female,Muslim,Freshmen,Independent University,Economics,Insufficient,Living together,Notepad/Laptop,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,sometimes,often,Sometimes,often,often,very often,23,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Problematic User (Scale of 21-30)
+26,Female,Muslim,Freshmen,Independent University,Commerce,Insufficient,Widowed,Notepad/Laptop,3G/4G/GRPRS,Attention Deficeit/Hyperactivity Disorder,Authorative,Normal,yes,No,yes,yes,yes,Only daytime,rarely,sometimes,Sometimes,sometimes,rarely,Sometimes,14,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+26,Female,Muslim,Freshmen,Independent University,Economics,Sufficient,Divorced,Notepad/Laptop,3G/4G/GRPRS,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,yes,yes,yes,yes,Only daytime,very rarely,sometimes,Rarely,sometimes,rarely,Rarely,11,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+32,Male,Muslim,Junior/ Senior,Independent University,Science,Insufficient,Living together,Notepad/Laptop,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Normal,no,yes,yes,yes,yes,Only daytime,veryoften,sometimes,very often,often,very often,Sometimes,25,Problematic use,Problematc use,30-34,Female,.432604931695505,.567395068304495,Problematic User (Scale of 21-30)
+32,Female,Muslim,Freshmen,North South University,Economics,Sufficient,Living together,Notepad/Laptop,WIFI,Attention Deficeit/Hyperactivity Disorder,Authorative,Normal,yes,yes,yes,yes,yes,Only daytime,very rarely,sometimes,Sometimes,often,sometimes,very rarely,15,Problematic use,Problematc use,30-34,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+26,Female,Muslim,Sophomore,North South University,Commerce,Insufficient,Divorced,Notepad/Laptop,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,yes,yes,yes,yes,Only daytime,sometimes,sometimes,Ver rarely,sometimes,very often,Rarely,19,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+35,Female,Muslim,Freshmen,North South University,Commerce,Insufficient,Divorced,Notepad/Laptop,WIFI,Attention Deficeit/Hyperactivity Disorder,Authorative,Normal,yes,yes,yes,yes,yes,Only daytime,very rarely,often,Sometimes,very rarely,very rarely,Sometimes,16,Problematic use,Problematc use,35-38,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+27,Male,Muslim,Freshmen,North South University,Commerce,Insufficient,Living together,Notepad/Laptop,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,yes,yes,yes,yes,Only daytime,very rarely,very rarely,Rarely,sometimes,very rarely,Rarely,14,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+33,Female,Muslim,Freshmen,North South University,Commerce,Insufficient,Divorced,Notepad/Laptop,WIFI,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,yes,yes,yes,yes,Only daytime,rarely,sometimes,Often,sometimes,often,Rarely,15,Problematic use,Problematc use,30-34,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+34,Female,Muslim,Freshmen,BRAC,Economics,Insufficient,Divorced,Notepad/Laptop,WAN,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,yes,yes,yes,yes,Only daytime,sometimes,sometimes,Sometimes,Rarely,rarely,Sometimes,13,Problematic use,Problematc use,30-34,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+28,Male,Hindu,Freshmen,BRAC,Commerce,Insufficient,Living together,Notepad/Laptop,WAN,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,yes,no,no,no,Only daytime,rarely,sometimes,Sometimes,sometimes,rarely,Rarely,13,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+26,Male,Muslim,Freshmen,BRAC,Economics,Sufficient,Divorced,Notepad/Laptop,WAN,Learning Deficiency(LD),Authorative,Abnormal,no,yes,no,no,no,Only daytime,rarely,often,Sometimes,sometimes,sometimes,Rarely,10,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Normal USE (Scale of 1-10)
+38,Female,Muslim,Junior/ Senior,BRAC,Science,Sufficient,Living together,Tablets,WAN,Learning Deficiency(LD),Authorative,Abnormal,no,yes,no,no,no,Only daytime,sometimes,very rarely,Rarely,sometimes,sometimes,very rarely,18,Problematic use,Problematc use,35-38,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+32,Female,Muslim,Junior/ Senior,BRAC,Economics,Sufficient,Divorced,Tablets,WAN,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,no,no,no,Only daytime,rarely,sometimes,Sometimes,sometimes,sometimes,Sometimes,17,Problematic use,Problematc use,30-34,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+30,Male,Muslim,Sophomore,BRAC,Science,Sufficient,Divorced,Tablets,WAN,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,yes,yes,yes,yes,Only daytime,sometimes,sometimes,Rarely,sometimes,sometimes,Rarely,16,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+35,Female,Muslim,Freshmen,AIUB,Economics,Sufficient,Divorced,Tablets,LAN,Learning Deficiency(LD),Authorative,Abnormal,no,yes,no,no,no,Only daytime,rarely,sometimes,very often,sometimes,sometimes,often,24,Problematic use,Problematc use,35-38,Female,.432604931695505,.567395068304495,Problematic User (Scale of 21-30)
+27,Male,Muslim,Freshmen,AIUB,Commerce,Sufficient,Living together,Notepad/Laptop,LAN,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only Nighttime,sometimes,often,Ver rarely,sometimes,sometimes,Sometimes,16,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+32,Male,Muslim,Junior/ Senior,AIUB,Commerce,Insufficient,Divorced,Tablets,LAN,Learning Deficiency(LD),Authorative,Abnormal,no,No,no,no,no,All day,veryoften,rarely,Sometimes,sometimes,very often,Sometimes,20,Normal use,Normal Use,30-34,Female,.467755731155667,.532244268844333,Facebook Addicted ( Scale of 11-20)
+35,Female,Muslim,Junior/ Senior,BRAC,Economics,Sufficient,Divorced,Notepad/Laptop,WAN,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,sometimes,sometimes,Rarely,sometimes,often,Rarely,16,Problematic use,Problematc use,35-38,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+27,Female,Muslim,Freshmen,North South University,Economics,Sufficient,Divorced,Tablets,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,no,no,no,All day,very rarely,often,Sometimes,often,sometimes,Sometimes,23,Normal use,Normal Use,23-30,Female,.467755731155667,.532244268844333,Problematic User (Scale of 21-30)
+32,Male,Hindu,Junior/ Senior,North South University,Commerce,Insufficient,Living together,Notepad/Laptop,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,no,no,no,Only daytime,sometimes,sometimes,Often,sometimes,sometimes,very rarely,13,Problematic use,Problematc use,30-34,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+35,Male,Muslim,Freshmen,North South University,Commerce,Insufficient,Divorced,Tablets,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,no,no,no,Only Nighttime,often,sometimes,Sometimes,very rarely,sometimes,Sometimes,15,Facebook Addiction,Facebook Addiction,35-38,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+27,Male,Muslim,Freshmen,North South University,Commerce,Insufficient,Divorced,smart phone,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,no,no,no,Only daytime,very rarely,sometimes,Rarely,very rarely,very often,Rarely,12,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+29,Male,Muslim,Freshmen,North South University,Commerce,Sufficient,Divorced,Tablets,WIFI,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,no,no,no,All day,rarely,rarely,Rarely,sometimes,very often,very rarely,20,Normal use,Normal Use,23-30,Female,.467755731155667,.532244268844333,Facebook Addicted ( Scale of 11-20)
+33,Male,Muslim,Freshmen,Independent University,Commerce,Insufficient,Divorced,Notepad/Laptop,3G/4G/GRPRS,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,no,no,no,Only daytime,rarely,sometimes,Often,sometimes,often,Sometimes,17,Problematic use,Problematc use,30-34,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+32,Male,Hindu,Freshmen,Independent University,Commerce,Sufficient,Divorced,Notepad/Laptop,3G/4G/GRPRS,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,no,no,no,Only daytime,often,very rarely,Rarely,sometimes,sometimes,Rarely,19,Problematic use,Problematc use,30-34,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+32,Female,Muslim,Freshmen,Independent University,Economics,Insufficient,Divorced,Tablets,3G/4G/GRPRS,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,no,no,no,Only daytime,very rarely,very rarely,Often,sometimes,often,Sometimes,15,Problematic use,Problematc use,30-34,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+26,Female,Muslim,Junior/ Senior,Independent University,Commerce,Sufficient,Widowed,Tablets,3G/4G/GRPRS,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,yes,yes,yes,Only daytime,sometimes,sometimes,Sometimes,often,sometimes,Sometimes,10,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Normal USE (Scale of 1-10)
+25,Female,Muslim,Freshmen,Independent University,Science,Sufficient,Divorced,Tablets,3G/4G/GRPRS,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,yes,yes,yes,Only daytime,rarely,rarely,Rarely,Rarely,rarely,often,20,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+25,Female,Muslim,Freshmen,North South University,Economics,Insufficient,Divorced,Tablets,WIFI,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,yes,yes,yes,Only Nighttime,rarely,often,Rarely,sometimes,sometimes,often,16,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+33,Male,Muslim,Junior/ Senior,Independent University,Commerce,Insufficient,Divorced,Tablets,3G/4G/GRPRS,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,yes,yes,yes,Only Nighttime,sometimes,very rarely,Rarely,very often,very rarely,very rarely,22,Facebook Addiction,Facebook Addiction,30-34,Female,.348724585451283,.651275414548717,Problematic User (Scale of 21-30)
+27,Male,Others,Junior/ Senior,Independent University,Science,Sufficient,Widowed,Tablets,3G/4G/GRPRS,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,yes,yes,yes,Only daytime,sometimes,very often,Often,very often,sometimes,Rarely,14,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+37,Female,Muslim,Junior/ Senior,Independent University,Economics,Sufficient,Divorced,Tablets,3G/4G/GRPRS,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,no,no,no,Only Nighttime,often,sometimes,Often,sometimes,sometimes,Rarely,10,Facebook Addiction,Facebook Addiction,35-38,Female,.348724585451283,.651275414548717,Normal USE (Scale of 1-10)
+25,Female,Muslim,Freshmen,North South University,Economics,Insufficient,Widowed,Tablets,WIFI,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,yes,yes,yes,Only daytime,rarely,sometimes,very often,very often,sometimes,Rarely,6,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Normal USE (Scale of 1-10)
+40,Male,Muslim,Freshmen,Independent University,Science,Insufficient,Living together,Tablets,3G/4G/GRPRS,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,no,no,no,Only Nighttime,rarely,sometimes,Sometimes,Rarely,rarely,Sometimes,14,Facebook Addiction,Facebook Addiction,38-40,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+29,Male,Muslim,Freshmen,North South University,Commerce,Sufficient,Divorced,Tablets,WIFI,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,yes,yes,yes,Only daytime,rarely,rarely,Sometimes,sometimes,rarely,very rarely,15,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+26,Male,Muslim,Freshmen,Independent University,Commerce,Insufficient,Widowed,Notepad/Laptop,3G/4G/GRPRS,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,no,no,no,Only daytime,sometimes,often,Ver rarely,sometimes,very rarely,Sometimes,21,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Problematic User (Scale of 21-30)
+30,Male,Hindu,Freshmen,North South University,Commerce,Sufficient,Divorced,Notepad/Laptop,WIFI,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,yes,yes,yes,Only Nighttime,sometimes,sometimes,Sometimes,often,rarely,very often,25,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Problematic User (Scale of 21-30)
+27,Male,Muslim,Freshmen,Independent University,Economics,Insufficient,Living together,Notepad/Laptop,3G/4G/GRPRS,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,no,no,no,Only daytime,sometimes,rarely,Sometimes,Rarely,often,Rarely,18,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+28,Female,Muslim,Freshmen,North South University,Commerce,Insufficient,Divorced,Notepad/Laptop,WIFI,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,yes,yes,yes,Only Nighttime,veryoften,rarely,Sometimes,very often,very often,Rarely,16,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+24,Female,Christian,Freshmen,Independent University,Commerce,Insufficient,Widowed,Notepad/Laptop,3G/4G/GRPRS,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,no,no,no,Only Nighttime,rarely,very rarely,Sometimes,often,often,very rarely,11,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+25,Male,Muslim,Freshmen,North South University,Economics,Insufficient,Divorced,Notepad/Laptop,WIFI,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,yes,yes,yes,Only daytime,very rarely,very rarely,very often,Rarely,sometimes,very often,17,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+27,Female,Muslim,Junior/ Senior,North South University,Economics,Insufficient,Divorced,Notepad/Laptop,WIFI,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,no,no,no,Only Nighttime,very rarely,sometimes,Ver rarely,sometimes,very rarely,very rarely,18,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+26,Female,Muslim,Freshmen,Independent University,Commerce,Insufficient,Living together,Notepad/Laptop,3G/4G/GRPRS,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,yes,yes,yes,Only Nighttime,very rarely,often,Sometimes,very often,very rarely,Rarely,14,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+31,Female,Hindu,Freshmen,North South University,Commerce,Sufficient,Living together,Notepad/Laptop,WIFI,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,no,no,no,Only daytime,rarely,often,Ver rarely,sometimes,very often,Sometimes,17,Problematic use,Problematc use,30-34,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+27,Male,Muslim,Junior/ Senior,North South University,Economics,Sufficient,Divorced,Personal computer,WIFI,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,no,no,no,Only daytime,rarely,sometimes,Sometimes,very often,sometimes,often,25,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Problematic User (Scale of 21-30)
+26,Male,Muslim,Freshmen,Independent University,Commerce,Sufficient,Widowed,Notepad/Laptop,3G/4G/GRPRS,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,yes,yes,yes,Only daytime,sometimes,very rarely,Ver rarely,very often,sometimes,Sometimes,18,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+31,Female,Muslim,Freshmen,BRAC,Science,Sufficient,Widowed,Personal computer,WAN,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,no,no,no,Only daytime,often,very rarely,Ver rarely,sometimes,often,Sometimes,15,Problematic use,Problematc use,30-34,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+27,Female,Muslim,Freshmen,North South University,Commerce,Insufficient,Widowed,Notepad/Laptop,WIFI,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,yes,yes,yes,Only daytime,often,very rarely,Sometimes,sometimes,rarely,very rarely,18,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+29,Male,Muslim,Freshmen,Independent University,Commerce,Sufficient,Divorced,Personal computer,3G/4G/GRPRS,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,yes,yes,yes,Only daytime,rarely,sometimes,Ver rarely,very often,often,very rarely,15,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+27,Male,Muslim,Freshmen,North South University,Commerce,Insufficient,Widowed,Notepad/Laptop,WIFI,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,no,no,no,Only daytime,sometimes,sometimes,Ver rarely,very rarely,sometimes,often,18,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+25,Male,Muslim,Freshmen,BRAC,Science,Sufficient,Divorced,Personal computer,WAN,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,yes,yes,yes,Only daytime,very rarely,sometimes,Often,often,sometimes,Sometimes,15,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+30,Female,Muslim,Freshmen,AIUB,Commerce,Sufficient,Widowed,Notepad/Laptop,LAN,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,no,no,no,Only daytime,rarely,very often,Rarely,sometimes,very often,Rarely,16,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+30,Female,Muslim,Freshmen,North South University,Commerce,Insufficient,Living together,Personal computer,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,sometimes,often,Ver rarely,sometimes,sometimes,Rarely,10,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Normal USE (Scale of 1-10)
+29,Female,Muslim,Junior/ Senior,North South University,Economics,Insufficient,Divorced,Tablets,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,no,no,no,Only daytime,very rarely,sometimes,Rarely,often,sometimes,Sometimes,13,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+28,Female,Muslim,Freshmen,North South University,Economics,Insufficient,Widowed,Notepad/Laptop,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,rarely,sometimes,Ver rarely,Rarely,often,Rarely,18,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+25,Male,Muslim,Freshmen,North South University,Commerce,Sufficient,Living together,Personal computer,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,no,no,no,Only Nighttime,rarely,very rarely,Sometimes,sometimes,sometimes,often,12,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+29,Female,Muslim,Freshmen,North South University,Economics,Insufficient,Living together,Notepad/Laptop,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,no,no,no,Only Nighttime,sometimes,rarely,Sometimes,often,sometimes,very often,17,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+30,Female,Muslim,Freshmen,North South University,Commerce,Sufficient,Divorced,Personal computer,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,no,no,no,Only Nighttime,rarely,sometimes,Sometimes,sometimes,very often,often,20,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+31,Female,Muslim,Freshmen,North South University,Commerce,Insufficient,Divorced,Personal computer,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,no,no,no,Only daytime,very rarely,very rarely,Ver rarely,very rarely,very often,often,14,Problematic use,Problematc use,30-34,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+30,Male,Muslim,Freshmen,North South University,Economics,Sufficient,Widowed,Personal computer,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,no,no,no,Only daytime,often,sometimes,Ver rarely,sometimes,often,Rarely,18,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+25,Male,Muslim,Junior/ Senior,North South University,Science,Sufficient,Divorced,Personal computer,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,very rarely,rarely,Ver rarely,sometimes,sometimes,often,20,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+35,Male,Muslim,Freshmen,North South University,Economics,Insufficient,Living together,Notepad/Laptop,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,rarely,rarely,Often,often,sometimes,very rarely,17,Problematic use,Problematc use,35-38,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+39,Female,Muslim,Freshmen,North South University,Commerce,Insufficient,Widowed,Notepad/Laptop,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,sometimes,very rarely,Ver rarely,very often,very often,often,22,Problematic use,Problematc use,38-40,Female,.432604931695505,.567395068304495,Problematic User (Scale of 21-30)
+29,Female,Muslim,Junior/ Senior,Independent University,Economics,Sufficient,Divorced,Notepad/Laptop,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,no,no,no,Only daytime,very rarely,sometimes,Sometimes,often,rarely,Sometimes,17,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+30,Male,Muslim,Junior/ Senior,Independent University,Commerce,Sufficient,Living together,Notepad/Laptop,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,very rarely,sometimes,Often,very rarely,very rarely,often,21,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Problematic User (Scale of 21-30)
+30,Male,Muslim,Junior/ Senior,Independent University,Commerce,Insufficient,Living together,Notepad/Laptop,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,no,no,no,Only daytime,veryoften,sometimes,Rarely,sometimes,very often,Sometimes,16,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+32,Male,Muslim,Sophomore,Independent University,Economics,Insufficient,Divorced,Personal computer,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,often,sometimes,Rarely,very rarely,sometimes,often,17,Problematic use,Problematc use,30-34,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+34,Female,Muslim,Sophomore,Independent University,Commerce,Sufficient,Divorced,Tablets,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,no,no,no,Only daytime,sometimes,sometimes,Rarely,Rarely,very often,Sometimes,18,Problematic use,Problematc use,30-34,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+23,Female,Muslim,Freshmen,Independent University,Economics,Insufficient,Living together,Personal computer,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,very rarely,very rarely,Rarely,sometimes,sometimes,Rarely,7,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Normal USE (Scale of 1-10)
+25,Female,Muslim,Junior/ Senior,Independent University,Economics,Sufficient,Divorced,Notepad/Laptop,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,very rarely,sometimes,Sometimes,sometimes,sometimes,Sometimes,15,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+27,Female,Muslim,Junior/ Senior,Independent University,Commerce,Insufficient,Divorced,Personal computer,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,sometimes,sometimes,Sometimes,sometimes,often,very often,17,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+29,Female,Muslim,Freshmen,Independent University,Economics,Insufficient,Living together,Tablets,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,sometimes,often,Rarely,very rarely,rarely,Sometimes,14,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+29,Male,Muslim,Junior/ Senior,Independent University,Commerce,Insufficient,Divorced,Personal computer,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,rarely,sometimes,Rarely,often,sometimes,Sometimes,14,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+33,Male,Muslim,Sophomore,Independent University,Commerce,Insufficient,Living together,Notepad/Laptop,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,rarely,very rarely,Ver rarely,sometimes,very rarely,very rarely,20,Problematic use,Problematc use,30-34,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+33,Female,Muslim,Freshmen,Independent University,Science,Insufficient,Divorced,Tablets,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,sometimes,rarely,Often,Rarely,very often,often,20,Problematic use,Problematc use,30-34,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+34,Female,Muslim,Freshmen,Independent University,Commerce,Insufficient,Divorced,smart phone,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,rarely,rarely,Ver rarely,very often,sometimes,very rarely,16,Problematic use,Problematc use,30-34,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+31,Male,Muslim,Freshmen,Independent University,Economics,Sufficient,Divorced,Personal computer,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,rarely,rarely,Sometimes,very often,very often,often,16,Problematic use,Problematc use,30-34,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+29,Female,Muslim,Freshmen,Independent University,Economics,Sufficient,Living together,Notepad/Laptop,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,very rarely,sometimes,Rarely,very often,rarely,Sometimes,14,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+34,Female,Muslim,Sophomore,Independent University,Science,Sufficient,Divorced,Tablets,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,very rarely,sometimes,Sometimes,often,often,often,21,Problematic use,Problematc use,30-34,Female,.432604931695505,.567395068304495,Problematic User (Scale of 21-30)
+27,Female,Muslim,Freshmen,North South University,Economics,Sufficient,Divorced,smart phone,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only Nighttime,rarely,rarely,Sometimes,very often,often,very rarely,13,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+29,Male,Muslim,Freshmen,North South University,Commerce,Sufficient,Divorced,Tablets,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only Nighttime,rarely,sometimes,Ver rarely,very rarely,sometimes,very often,21,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Problematic User (Scale of 21-30)
+24,Female,Hindu,Freshmen,North South University,Commerce,Sufficient,Living together,smart phone,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only Nighttime,very rarely,very often,Rarely,Rarely,very often,Sometimes,12,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+25,Female,Muslim,Sophomore,North South University,Commerce,Insufficient,Divorced,Tablets,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only Nighttime,sometimes,often,Rarely,sometimes,very rarely,very often,13,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+25,Male,Muslim,Freshmen,North South University,Commerce,Sufficient,Divorced,smart phone,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only Nighttime,very rarely,rarely,Sometimes,very often,very often,very rarely,20,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+28,Female,Muslim,Freshmen,North South University,Commerce,Sufficient,Divorced,Tablets,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only Nighttime,sometimes,very rarely,Rarely,very rarely,sometimes,often,12,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+26,Female,Hindu,Freshmen,North South University,Economics,Insufficient,Divorced,smart phone,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only Nighttime,rarely,often,Ver rarely,Rarely,rarely,Sometimes,15,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+30,Male,Muslim,Freshmen,North South University,Commerce,Insufficient,Divorced,Tablets,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only Nighttime,sometimes,very rarely,Rarely,very rarely,very rarely,Sometimes,12,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+31,Female,Muslim,Junior/ Senior,Independent University,Science,Sufficient,Divorced,smart phone,3G/4G/GRPRS,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,yes,yes,yes,Only Nighttime,veryoften,sometimes,Sometimes,very rarely,very rarely,Rarely,19,Facebook Addiction,Facebook Addiction,30-34,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+26,Female,Muslim,Freshmen,Independent University,Commerce,Sufficient,Widowed,Tablets,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only Nighttime,very rarely,rarely,Sometimes,often,rarely,very rarely,6,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Normal USE (Scale of 1-10)
+31,Female,Hindu,Junior/ Senior,Independent University,Science,Insufficient,Divorced,smart phone,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only Nighttime,very rarely,sometimes,Sometimes,Rarely,sometimes,very rarely,13,Facebook Addiction,Facebook Addiction,30-34,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+26,Male,Muslim,Junior/ Senior,Independent University,Commerce,Insufficient,Divorced,Tablets,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only Nighttime,rarely,sometimes,Often,sometimes,often,often,11,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+25,Male,Muslim,Freshmen,Independent University,Commerce,Sufficient,Divorced,smart phone,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only Nighttime,veryoften,very rarely,Ver rarely,sometimes,rarely,very rarely,20,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+27,Female,Muslim,Freshmen,Independent University,Science,Sufficient,Widowed,Tablets,3G/4G/GRPRS,Attention Deficeit/Hyperactivity Disorder,Authorative,Abnormal,yes,No,yes,yes,yes,Only Nighttime,rarely,sometimes,Ver rarely,Rarely,sometimes,very often,17,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+24,Female,Muslim,Freshmen,Independent University,Science,Insufficient,Divorced,smart phone,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,very rarely,sometimes,Sometimes,sometimes,sometimes,Sometimes,20,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+28,Male,Muslim,Freshmen,Independent University,Commerce,Insufficient,Widowed,Tablets,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,very rarely,rarely,Sometimes,sometimes,sometimes,Rarely,19,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+27,Female,Muslim,Junior/ Senior,North South University,Economics,Sufficient,Living together,smart phone,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,All day,sometimes,rarely,Rarely,often,sometimes,Sometimes,12,Normal use,Normal Use,23-30,Female,.467755731155667,.532244268844333,Facebook Addicted ( Scale of 11-20)
+24,Female,Muslim,Junior/ Senior,Independent University,Commerce,Insufficient,Divorced,Tablets,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,veryoften,rarely,Rarely,sometimes,sometimes,often,18,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+28,Male,Muslim,Freshmen,Independent University,Economics,Sufficient,Living together,Personal computer,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,veryoften,very rarely,Ver rarely,very rarely,often,Sometimes,18,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+26,Male,Muslim,Freshmen,Independent University,Commerce,Insufficient,Living together,Notepad/Laptop,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,rarely,often,Ver rarely,sometimes,sometimes,Sometimes,16,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+27,Male,Muslim,Freshmen,Independent University,Economics,Insufficient,Divorced,Notepad/Laptop,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,rarely,rarely,Rarely,sometimes,sometimes,Sometimes,16,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+30,Female,Muslim,Junior/ Senior,Independent University,Economics,Insufficient,Divorced,Notepad/Laptop,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,veryoften,rarely,Ver rarely,sometimes,often,very rarely,15,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+30,Female,Muslim,Freshmen,Independent University,Commerce,Insufficient,Widowed,Personal computer,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,rarely,sometimes,Sometimes,sometimes,sometimes,very rarely,15,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+29,Female,Muslim,Freshmen,Independent University,Commerce,Insufficient,Divorced,Tablets,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,rarely,very rarely,Often,Rarely,often,Rarely,15,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+35,Male,Hindu,Freshmen,Independent University,Science,Insufficient,Living together,Notepad/Laptop,3G/4G/GRPRS,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,rarely,sometimes,Ver rarely,sometimes,often,Sometimes,16,Problematic use,Problematc use,35-38,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+28,Male,Muslim,Junior/ Senior,North South University,Economics,Sufficient,Widowed,smart phone,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,rarely,sometimes,Ver rarely,very rarely,very rarely,Rarely,14,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+35,Female,Muslim,Freshmen,North South University,Commerce,Sufficient,Divorced,Personal computer,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,veryoften,sometimes,Often,sometimes,sometimes,Sometimes,20,Problematic use,Problematc use,35-38,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+30,Female,Muslim,Freshmen,North South University,Commerce,Sufficient,Living together,Notepad/Laptop,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,sometimes,often,Rarely,very rarely,very often,Rarely,10,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Normal USE (Scale of 1-10)
+37,Female,Muslim,Freshmen,North South University,Economics,Sufficient,Living together,Personal computer,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,rarely,sometimes,Often,sometimes,very often,Sometimes,20,Problematic use,Problematc use,35-38,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+31,Female,Muslim,Freshmen,North South University,Economics,Sufficient,Divorced,Notepad/Laptop,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,rarely,very rarely,Rarely,very rarely,sometimes,Sometimes,15,Problematic use,Problematc use,30-34,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+35,Male,Muslim,Junior/ Senior,BRAC,Commerce,Sufficient,Divorced,Tablets,WAN,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,very rarely,very rarely,very often,sometimes,often,Rarely,21,Problematic use,Problematc use,35-38,Female,.432604931695505,.567395068304495,Problematic User (Scale of 21-30)
+25,Female,Muslim,Freshmen,BRAC,Economics,Insufficient,Living together,smart phone,WAN,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,often,very often,Sometimes,sometimes,rarely,often,14,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+23,Female,Muslim,Sophomore,BRAC,Commerce,Sufficient,Divorced,Notepad/Laptop,WAN,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,rarely,very rarely,Sometimes,often,often,often,21,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Problematic User (Scale of 21-30)
+25,Female,Others,Freshmen,BRAC,Commerce,Sufficient,Divorced,Personal computer,WAN,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,sometimes,sometimes,Ver rarely,Rarely,sometimes,Sometimes,16,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+27,Male,Hindu,Freshmen,BRAC,Science,Insufficient,Living together,Tablets,WAN,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,very rarely,very rarely,Rarely,sometimes,often,Sometimes,18,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+28,Female,Muslim,Freshmen,BRAC,Commerce,Insufficient,Divorced,Notepad/Laptop,WAN,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,sometimes,sometimes,Sometimes,sometimes,sometimes,Sometimes,21,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Problematic User (Scale of 21-30)
+32,Female,Muslim,Freshmen,AIUB,Economics,Sufficient,Living together,smart phone,LAN,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only Nighttime,rarely,sometimes,Sometimes,often,rarely,Rarely,14,Facebook Addiction,Facebook Addiction,30-34,Female,.348724585451283,.651275414548717,Facebook Addicted ( Scale of 11-20)
+29,Female,Christian,Junior/ Senior,AIUB,Economics,Sufficient,Divorced,Notepad/Laptop,LAN,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,All day,veryoften,sometimes,Sometimes,very rarely,very rarely,Sometimes,18,Normal use,Normal Use,23-30,Female,.467755731155667,.532244268844333,Facebook Addicted ( Scale of 11-20)
+27,Female,Hindu,Junior/ Senior,AIUB,Economics,Insufficient,Divorced,Personal computer,LAN,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,very rarely,very often,Rarely,very rarely,often,very often,19,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Facebook Addicted ( Scale of 11-20)
+36,Male,Hindu,Freshmen,BRAC,Commerce,Insufficient,Divorced,Tablets,WAN,Learning Deficiency(LD),Permissive,Abnormal,no,No,yes,yes,yes,All day,rarely,often,Sometimes,often,often,very rarely,20,Normal use,Normal Use,35-38,Female,.467755731155667,.532244268844333,Facebook Addicted ( Scale of 11-20)
+28,Male,Muslim,Junior/ Senior,North South University,Economics,Sufficient,Living together,Notepad/Laptop,WIFI,Learning Deficiency(LD),Authorative,Abnormal,no,No,yes,yes,yes,Only daytime,rarely,sometimes,Rarely,often,often,often,22,Problematic use,Problematc use,23-30,Female,.432604931695505,.567395068304495,Problematic User (Scale of 21-30)
+30,Female,Muslim,Freshmen,North South University,Commerce,Insufficient,Divorced,Personal computer,WIFI,Learning Deficiency(LD),Permissive,Abnormal,no,No,yes,yes,yes,Only Nighttime,very rarely,sometimes,Ver rarely,Rarely,sometimes,very rarely,23,Facebook Addiction,Facebook Addiction,23-30,Female,.348724585451283,.651275414548717,Problematic User (Scale of 21-30)
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
