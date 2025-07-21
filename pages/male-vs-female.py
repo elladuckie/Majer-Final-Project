@@ -5,7 +5,6 @@ import numpy as np
 
 #This sets the title of the page
 st.set_page_config(page_title=":rainbow[Male Vs. Female]")
-#:rainbow makes everything in the [] into rainbow color
 st.title(":rainbow[Male Vs. Female]")
 #little description
 st.write("The page shows the comparison between men and women, and what the effects of social media are for them. This can show how much time they've wasted, how much productivity they've lost, etc.")
